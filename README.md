@@ -193,7 +193,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Suhel Mulla** — B.Tech AI/ML, D Y Patil Agriculture and Technical University, Talsande
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhel-mulla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhelmulla22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhelMulla22)
 
 ---
