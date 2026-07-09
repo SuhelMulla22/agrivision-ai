@@ -1,0 +1,70 @@
+# =============================================
+# AgriVision AI — Git Ignore Rules
+# =============================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+python311_installer.exe
+
+# ML Models (large files — use Git LFS or download separately)
+backend/ml/models/*.h5
+backend/ml/models/*.tflite
+backend/ml/models/*.pb
+backend/ml/models/saved_model/
+*.h5
+*.tflite
+
+# Datasets (too large for Git)
+datasets/
+data/plantvillage/
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+logs/
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker
+.docker/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Firebase
+serviceAccountKey.json

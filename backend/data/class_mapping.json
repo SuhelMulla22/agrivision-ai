@@ -1,0 +1,232 @@
+{
+    "0": {
+        "name": "Apple___Apple_scab",
+        "crop": "Apple",
+        "disease": "Apple scab"
+    },
+    "1": {
+        "name": "Apple___Black_rot",
+        "crop": "Apple",
+        "disease": "Black rot"
+    },
+    "2": {
+        "name": "Apple___Cedar_apple_rust",
+        "crop": "Apple",
+        "disease": "Cedar apple rust"
+    },
+    "3": {
+        "name": "Apple___healthy",
+        "crop": "Apple",
+        "disease": "Healthy"
+    },
+    "4": {
+        "name": "Blueberry___healthy",
+        "crop": "Blueberry",
+        "disease": "Healthy"
+    },
+    "5": {
+        "name": "Cherry_(including_sour)___Powdery_mildew",
+        "crop": "Cherry_(including_sour)",
+        "disease": "Powdery mildew"
+    },
+    "6": {
+        "name": "Cherry_(including_sour)___healthy",
+        "crop": "Cherry_(including_sour)",
+        "disease": "Healthy"
+    },
+    "7": {
+        "name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "crop": "Corn_(maize)",
+        "disease": "Cercospora leaf spot Gray leaf spot"
+    },
+    "8": {
+        "name": "Corn_(maize)___Common_rust_",
+        "crop": "Corn_(maize)",
+        "disease": "Common rust "
+    },
+    "9": {
+        "name": "Corn_(maize)___Northern_Leaf_Blight",
+        "crop": "Corn_(maize)",
+        "disease": "Northern Leaf Blight"
+    },
+    "10": {
+        "name": "Corn_(maize)___healthy",
+        "crop": "Corn_(maize)",
+        "disease": "Healthy"
+    },
+    "11": {
+        "name": "Grape___Black_rot",
+        "crop": "Grape",
+        "disease": "Black rot"
+    },
+    "12": {
+        "name": "Grape___Esca_(Black_Measles)",
+        "crop": "Grape",
+        "disease": "Esca (Black Measles)"
+    },
+    "13": {
+        "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "crop": "Grape",
+        "disease": "Leaf blight (Isariopsis Leaf Spot)"
+    },
+    "14": {
+        "name": "Grape___healthy",
+        "crop": "Grape",
+        "disease": "Healthy"
+    },
+    "15": {
+        "name": "Mango___Anthracnose",
+        "crop": "Mango",
+        "disease": "Anthracnose"
+    },
+    "16": {
+        "name": "Mango___Bacterial_Canker",
+        "crop": "Mango",
+        "disease": "Bacterial Canker"
+    },
+    "17": {
+        "name": "Mango___Cutting_Weevil",
+        "crop": "Mango",
+        "disease": "Cutting Weevil"
+    },
+    "18": {
+        "name": "Mango___Die_Back",
+        "crop": "Mango",
+        "disease": "Die Back"
+    },
+    "19": {
+        "name": "Mango___Gall_Midge",
+        "crop": "Mango",
+        "disease": "Gall Midge"
+    },
+    "20": {
+        "name": "Mango___Powdery_Mildew",
+        "crop": "Mango",
+        "disease": "Powdery Mildew"
+    },
+    "21": {
+        "name": "Mango___Sooty_Mould",
+        "crop": "Mango",
+        "disease": "Sooty Mould"
+    },
+    "22": {
+        "name": "Mango___healthy",
+        "crop": "Mango",
+        "disease": "Healthy"
+    },
+    "23": {
+        "name": "Orange___Haunglongbing_(Citrus_greening)",
+        "crop": "Orange",
+        "disease": "Haunglongbing (Citrus greening)"
+    },
+    "24": {
+        "name": "Peach___Bacterial_spot",
+        "crop": "Peach",
+        "disease": "Bacterial spot"
+    },
+    "25": {
+        "name": "Peach___healthy",
+        "crop": "Peach",
+        "disease": "Healthy"
+    },
+    "26": {
+        "name": "Pepper,_bell___Bacterial_spot",
+        "crop": "Pepper,_bell",
+        "disease": "Bacterial spot"
+    },
+    "27": {
+        "name": "Pepper,_bell___healthy",
+        "crop": "Pepper,_bell",
+        "disease": "Healthy"
+    },
+    "28": {
+        "name": "Potato___Early_blight",
+        "crop": "Potato",
+        "disease": "Early blight"
+    },
+    "29": {
+        "name": "Potato___Late_blight",
+        "crop": "Potato",
+        "disease": "Late blight"
+    },
+    "30": {
+        "name": "Potato___healthy",
+        "crop": "Potato",
+        "disease": "Healthy"
+    },
+    "31": {
+        "name": "Raspberry___healthy",
+        "crop": "Raspberry",
+        "disease": "Healthy"
+    },
+    "32": {
+        "name": "Soybean___healthy",
+        "crop": "Soybean",
+        "disease": "Healthy"
+    },
+    "33": {
+        "name": "Squash___Powdery_mildew",
+        "crop": "Squash",
+        "disease": "Powdery mildew"
+    },
+    "34": {
+        "name": "Strawberry___Leaf_scorch",
+        "crop": "Strawberry",
+        "disease": "Leaf scorch"
+    },
+    "35": {
+        "name": "Strawberry___healthy",
+        "crop": "Strawberry",
+        "disease": "Healthy"
+    },
+    "36": {
+        "name": "Tomato___Bacterial_spot",
+        "crop": "Tomato",
+        "disease": "Bacterial spot"
+    },
+    "37": {
+        "name": "Tomato___Early_blight",
+        "crop": "Tomato",
+        "disease": "Early blight"
+    },
+    "38": {
+        "name": "Tomato___Late_blight",
+        "crop": "Tomato",
+        "disease": "Late blight"
+    },
+    "39": {
+        "name": "Tomato___Leaf_Mold",
+        "crop": "Tomato",
+        "disease": "Leaf Mold"
+    },
+    "40": {
+        "name": "Tomato___Septoria_leaf_spot",
+        "crop": "Tomato",
+        "disease": "Septoria leaf spot"
+    },
+    "41": {
+        "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "crop": "Tomato",
+        "disease": "Spider mites Two-spotted spider mite"
+    },
+    "42": {
+        "name": "Tomato___Target_Spot",
+        "crop": "Tomato",
+        "disease": "Target Spot"
+    },
+    "43": {
+        "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "crop": "Tomato",
+        "disease": "Tomato Yellow Leaf Curl Virus"
+    },
+    "44": {
+        "name": "Tomato___Tomato_mosaic_virus",
+        "crop": "Tomato",
+        "disease": "Tomato mosaic virus"
+    },
+    "45": {
+        "name": "Tomato___healthy",
+        "crop": "Tomato",
+        "disease": "Healthy"
+    }
+}

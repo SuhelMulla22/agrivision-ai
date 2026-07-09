@@ -1,0 +1,4367 @@
+{
+  "apple_apple_scab": {
+    "name": {
+      "en": "Apple Scab",
+      "hi": "एप्पल स्कैब",
+      "mr": "अॅपल स्कॅब"
+    },
+    "crop": "Apple",
+    "description": {
+      "en": "Apple scab is caused by the fungus Venturia inaequalis. It creates olive-green to dark brown lesions on leaves and fruit, reducing quality and yield.",
+      "hi": "एप्पल स्कैब Venturia inaequalis कवक के कारण होता है। यह पत्तियों और फलों पर जैतून-हरे से गहरे भूरे रंग के धब्बे बनाता है।",
+      "mr": "अॅपल स्कॅब Venturia inaequalis बुरशीमुळे होतो. पानांवर आणि फळांवर ऑलिव्ह-हिरव्या ते गडद तपकिरी ठिपके दिसतात."
+    },
+    "symptoms": {
+      "en": [
+        "Olive-green velvety spots on leaves",
+        "Dark scabby lesions on fruit",
+        "Premature leaf drop",
+        "Distorted or cracked fruit"
+      ],
+      "hi": [
+        "पत्तियों पर जैतून-हरे मखमली धब्बे",
+        "फलों पर गहरे खुरदुरे धब्बे",
+        "समय से पहले पत्तियों का गिरना"
+      ],
+      "mr": [
+        "पानांवर ऑलिव्ह-हिरवे मखमली ठिपके",
+        "फळांवर गडद खरबरीत ठिपके",
+        "काळापूर्वी पाने गळणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Venturia inaequalis fungus",
+        "Cool wet spring weather",
+        "High humidity >70%",
+        "Poor air circulation"
+      ],
+      "hi": [
+        "Venturia inaequalis कवक",
+        "ठंडा गीला मौसम",
+        "अधिक आर्द्रता"
+      ],
+      "mr": [
+        "Venturia inaequalis बुरशी",
+        "थंड ओले हवामान",
+        "जास्त आर्द्रता"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Apply neem oil spray",
+          "Use sulfur-based fungicide",
+          "Remove infected leaves and fruit"
+        ],
+        "hi": [
+          "नीम तेल का छिड़काव करें",
+          "गंधक आधारित कवकनाशी"
+        ],
+        "mr": [
+          "कडुलिंब तेल फवारणी",
+          "गंधक आधारित बुरशीनाशक"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Captan 50% WP @ 2g/L",
+          "Mancozeb 75% WP @ 2g/L",
+          "Myclobutanil @ 0.5ml/L"
+        ],
+        "hi": [
+          "कैप्टन 50% WP @ 2g/L",
+          "मैंकोज़ेब 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "कॅप्टन 50% WP @ 2g/L",
+          "मँकोझेब 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use resistant varieties",
+        "Prune for good air circulation",
+        "Remove fallen leaves in autumn",
+        "Apply dormant sprays"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में लगाएं",
+        "हवा के प्रवाह के लिए छंटाई करें"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती लावा",
+        "हवेच्या प्रवाहासाठी छाटणी करा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Heavy infection — apply fungicide immediately.",
+        "hi": "भारी संक्रमण — तुरंत कवकनाशी लगाएं।",
+        "mr": "जास्त संसर्ग — लगेच बुरशीनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Moderate infection — begin treatment.",
+        "hi": "मध्यम संक्रमण — उपचार शुरू करें।",
+        "mr": "मध्यम संसर्ग — उपचार सुरू करा."
+      },
+      "low": {
+        "en": "Early signs — monitor closely.",
+        "hi": "शुरुआती लक्षण — निगरानी करें।",
+        "mr": "सुरुवातीचे लक्षण — निरीक्षण करा."
+      }
+    }
+  },
+  "apple_black_rot": {
+    "name": {
+      "en": "Black Rot",
+      "hi": "ब्लैक रॉट",
+      "mr": "ब्लॅक रॉट"
+    },
+    "crop": "Apple",
+    "description": {
+      "en": "Black rot is caused by Botryosphaeria obtusa. It produces expanding brown lesions on fruit that turn black, and 'frog-eye' leaf spots.",
+      "hi": "ब्लैक रॉट Botryosphaeria obtusa कवक के कारण होता है।",
+      "mr": "ब्लॅक रॉट Botryosphaeria obtusa बुरशीमुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "'Frog-eye' spots on leaves — brown with purple border",
+        "Expanding brown to black lesions on fruit",
+        "Cankers on branches",
+        "Fruit mummification"
+      ],
+      "hi": [
+        "पत्तियों पर 'मेंढक-आंख' धब्बे",
+        "फलों पर फैलते भूरे-काले धब्बे"
+      ],
+      "mr": [
+        "पानांवर 'बेडूक-डोळे' ठिपके",
+        "फळांवर पसरणारे तपकिरी-काळे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Botryosphaeria obtusa fungus",
+        "Warm humid weather",
+        "Wounds from insects or hail"
+      ],
+      "hi": [
+        "Botryosphaeria obtusa कवक",
+        "गर्म आर्द्र मौसम"
+      ],
+      "mr": [
+        "Botryosphaeria obtusa बुरशी",
+        "उष्ण दमट हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove mummified fruit",
+          "Prune dead branches",
+          "Apply copper fungicide"
+        ],
+        "hi": [
+          "सूखे फल हटाएं",
+          "मृत शाखाएं काटें"
+        ],
+        "mr": [
+          "सुकलेली फळे काढा",
+          "मेलेल्या फांद्या काटा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Captan 50% WP @ 2g/L",
+          "Thiophanate-methyl @ 1g/L"
+        ],
+        "hi": [
+          "कैप्टन 50% WP @ 2g/L"
+        ],
+        "mr": [
+          "कॅप्टन 50% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Remove infected plant material",
+        "Maintain tree vigor with proper nutrition",
+        "Apply preventive fungicides"
+      ],
+      "hi": [
+        "संक्रमित सामग्री हटाएं",
+        "उचित पोषण से पेड़ की ताकत बनाएं"
+      ],
+      "mr": [
+        "संक्रमित साहित्य काढा",
+        "योग्य पोषणाने झाडाची ताकद टिकवा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Severe — remove all infected material and spray.",
+        "hi": "गंभीर — सभी संक्रमित सामग्री हटाएं।",
+        "mr": "गंभीर — सर्व संक्रमित साहित्य काढा."
+      },
+      "moderate": {
+        "en": "Apply treatment before spread.",
+        "hi": "प्रसार से पहले उपचार करें।",
+        "mr": "पसरण्यापूर्वी उपचार करा."
+      },
+      "low": {
+        "en": "Monitor and remove early signs.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "apple_cedar_apple_rust": {
+    "name": {
+      "en": "Cedar Apple Rust",
+      "hi": "सीडर एप्पल रस्ट",
+      "mr": "सीडर अॅपल रस्ट"
+    },
+    "crop": "Apple",
+    "description": {
+      "en": "Cedar apple rust is caused by Gymnosporangium juniperi-virginianae. It requires both apple and cedar/juniper trees to complete its life cycle.",
+      "hi": "सीडर एप्पल रस्ट Gymnosporangium juniperi-virginianae के कारण होता है।",
+      "mr": "सीडर अॅपल रस्ट Gymnosporangium juniperi-virginianae यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Bright orange-yellow spots on leaves",
+        "Orange tube-like structures on leaf undersides",
+        "Defoliation in severe cases",
+        "Spots on fruit"
+      ],
+      "hi": [
+        "पत्तियों पर चमकीले नारंगी-पीले धब्बे",
+        "गंभीर मामलों में पत्ती गिरना"
+      ],
+      "mr": [
+        "पानांवर चमकदार नारिंगी-पिवळे ठिपके",
+        "गंभीर प्रकरणांत पाने गळणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Gymnosporangium fungus",
+        "Proximity to cedar/juniper trees",
+        "Spring rainfall"
+      ],
+      "hi": [
+        "Gymnosporangium कवक",
+        "देवदार के पेड़ों की निकटता"
+      ],
+      "mr": [
+        "Gymnosporangium बुरशी",
+        "देवदार झाडांची जवळीक"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove nearby cedar/juniper trees if possible",
+          "Apply sulfur-based fungicide"
+        ],
+        "hi": [
+          "संभव हो तो निकट के देवदार हटाएं"
+        ],
+        "mr": [
+          "शक्य असल्यास जवळचे देवदार काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Myclobutanil @ 0.5ml/L at pink bud stage",
+          "Mancozeb 75% WP @ 2g/L"
+        ],
+        "hi": [
+          "माइक्लोब्यूटानिल @ 0.5ml/L"
+        ],
+        "mr": [
+          "मायक्लोब्युटॅनिल @ 0.5ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant varieties",
+        "Remove cedar trees within 2 miles",
+        "Apply preventive fungicide in spring"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Heavy defoliation risk — treat immediately.",
+        "hi": "भारी पत्ती गिरने का खतरा।",
+        "mr": "जास्त पाने गळण्याचा धोका."
+      },
+      "moderate": {
+        "en": "Apply fungicide before spore release.",
+        "hi": "बीजाणु छोड़ने से पहले उपचार करें।",
+        "mr": "बीजाणू सोडण्यापूर्वी उपचार करा."
+      },
+      "low": {
+        "en": "Monitor for early spots.",
+        "hi": "शुरुआती धब्बों की निगरानी करें।",
+        "mr": "सुरुवातीच्या ठिपक्यांचे निरीक्षण करा."
+      }
+    }
+  },
+  "apple_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Apple",
+    "description": {
+      "en": "The apple plant appears healthy with no visible signs of disease.",
+      "hi": "सेब का पौधा स्वस्थ है।",
+      "mr": "सफरचंद रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care and monitoring",
+        "Maintain proper pruning schedule"
+      ],
+      "hi": [
+        "नियमित देखभाल जारी रखें"
+      ],
+      "mr": [
+        "नियमित काळजी चालू ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "blueberry_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Blueberry",
+    "description": {
+      "en": "The blueberry plant appears healthy.",
+      "hi": "ब्लूबेरी का पौधा स्वस्थ है।",
+      "mr": "ब्लूबेरी रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल जारी रखें"
+      ],
+      "mr": [
+        "नियमित काळजी चालू ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "cherry_powdery_mildew": {
+    "name": {
+      "en": "Powdery Mildew",
+      "hi": "पाउडरी मिल्ड्यू",
+      "mr": "पावडरी मिल्ड्यू"
+    },
+    "crop": "Cherry",
+    "description": {
+      "en": "Powdery mildew on cherry is caused by Podosphaera clandestina. It covers leaves and fruit with a white powdery coating.",
+      "hi": "चेरी पर पाउडरी मिल्ड्यू Podosphaera clandestina के कारण होता है।",
+      "mr": "चेरीवरील पावडरी मिल्ड्यू Podosphaera clandestina यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "White powdery coating on leaves",
+        "Leaf curling and distortion",
+        "Stunted shoot growth",
+        "Fruit cracking"
+      ],
+      "hi": [
+        "पत्तियों पर सफेद पाउडर जैसी परत",
+        "पत्तियों का मुड़ना"
+      ],
+      "mr": [
+        "पानांवर पांढरी भुकटी सारखी थर",
+        "पाने मुडणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Podosphaera clandestina fungus",
+        "Warm dry days with cool nights",
+        "Dense canopy with poor air flow"
+      ],
+      "hi": [
+        "Podosphaera clandestina कवक"
+      ],
+      "mr": [
+        "Podosphaera clandestina बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Apply potassium bicarbonate spray",
+          "Use neem oil",
+          "Prune for air circulation"
+        ],
+        "hi": [
+          "पोटेशियम बाइकार्बोनेट छिड़काव"
+        ],
+        "mr": [
+          "पोटॅशियम बायकार्बोनेट फवारणी"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Myclobutanil @ 0.5ml/L",
+          "Sulfur-based fungicide @ 3g/L"
+        ],
+        "hi": [
+          "माइक्लोब्यूटानिल @ 0.5ml/L"
+        ],
+        "mr": [
+          "मायक्लोब्युटॅनिल @ 0.5ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant in well-ventilated areas",
+        "Avoid excess nitrogen",
+        "Use resistant varieties"
+      ],
+      "hi": [
+        "हवादार जगह लगाएं"
+      ],
+      "mr": [
+        "हवेशीर ठिकाणी लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Heavy coverage — treat urgently.",
+        "hi": "भारी संक्रमण — तुरंत उपचार करें।",
+        "mr": "जास्त संसर्ग — त्वरित उपचार करा."
+      },
+      "moderate": {
+        "en": "Moderate — apply treatment.",
+        "hi": "मध्यम — उपचार करें।",
+        "mr": "मध्यम — उपचार करा."
+      },
+      "low": {
+        "en": "Early signs detected.",
+        "hi": "शुरुआती लक्षण।",
+        "mr": "सुरुवातीचे लक्षण."
+      }
+    }
+  },
+  "cherry_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Cherry",
+    "description": {
+      "en": "The cherry plant appears healthy.",
+      "hi": "चेरी का पौधा स्वस्थ है।",
+      "mr": "चेरी रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल जारी रखें"
+      ],
+      "mr": [
+        "नियमित काळजी चालू ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "corn_cercospora_leaf_spot": {
+    "name": {
+      "en": "Cercospora Leaf Spot / Gray Leaf Spot",
+      "hi": "सर्कोस्पोरा लीफ स्पॉट",
+      "mr": "सर्कोस्पोरा लीफ स्पॉट"
+    },
+    "crop": "Corn",
+    "description": {
+      "en": "Gray leaf spot is caused by Cercospora zeae-maydis. It produces rectangular gray to tan lesions on corn leaves, reducing photosynthesis and yield.",
+      "hi": "ग्रे लीफ स्पॉट Cercospora zeae-maydis कवक के कारण होता है।",
+      "mr": "ग्रे लीफ स्पॉट Cercospora zeae-maydis बुरशीमुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Rectangular gray-tan lesions between leaf veins",
+        "Lesions may coalesce causing large dead areas",
+        "Severe infection leads to premature death of leaves"
+      ],
+      "hi": [
+        "पत्ती शिराओं के बीच आयताकार धूसर-भूरे धब्बे"
+      ],
+      "mr": [
+        "पान शिरांमध्ये आयताकार धूसर-तपकिरी ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Cercospora zeae-maydis fungus",
+        "Warm humid conditions",
+        "Continuous corn planting",
+        "Reduced tillage leaving crop residue"
+      ],
+      "hi": [
+        "Cercospora zeae-maydis कवक",
+        "गर्म आर्द्र परिस्थितियां"
+      ],
+      "mr": [
+        "Cercospora zeae-maydis बुरशी",
+        "उष्ण दमट परिस्थिती"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Crop rotation with non-host crops",
+          "Remove infected debris"
+        ],
+        "hi": [
+          "गैर-मेजबान फसलों के साथ फसल चक्र"
+        ],
+        "mr": [
+          "यजमान नसलेल्या पिकांसह पीक चक्र"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Azoxystrobin 23% SC @ 1ml/L",
+          "Propiconazole 25% EC @ 1ml/L"
+        ],
+        "hi": [
+          "एज़ोक्सीस्ट्रोबिन 23% SC @ 1ml/L"
+        ],
+        "mr": [
+          "अझोक्सिस्ट्रोबिन 23% SC @ 1ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant hybrids",
+        "Rotate crops yearly",
+        "Manage residue through tillage"
+      ],
+      "hi": [
+        "प्रतिरोधी संकर लगाएं",
+        "फसल चक्र अपनाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक संकर लावा",
+        "पीक चक्र अवलंबा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Apply fungicide immediately.",
+        "hi": "तुरंत कवकनाशी लगाएं।",
+        "mr": "लगेच बुरशीनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Monitor and prepare treatment.",
+        "hi": "निगरानी करें और उपचार तैयार करें।",
+        "mr": "निरीक्षण करा आणि उपचार तयार करा."
+      },
+      "low": {
+        "en": "Early stage — preventive measures.",
+        "hi": "शुरुआती अवस्था — निवारक उपाय।",
+        "mr": "सुरुवाती टप्पा — प्रतिबंधात्मक उपाय."
+      }
+    }
+  },
+  "corn_common_rust": {
+    "name": {
+      "en": "Common Rust",
+      "hi": "कॉमन रस्ट",
+      "mr": "कॉमन रस्ट"
+    },
+    "crop": "Corn",
+    "description": {
+      "en": "Common rust of corn is caused by Puccinia sorghi. It produces cinnamon-brown pustules on both leaf surfaces.",
+      "hi": "मक्का का कॉमन रस्ट Puccinia sorghi के कारण होता है।",
+      "mr": "मक्क्यातील कॉमन रस्ट Puccinia sorghi यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Cinnamon-brown oval pustules on leaves",
+        "Pustules on both leaf surfaces",
+        "Severe infection causes leaf death"
+      ],
+      "hi": [
+        "पत्तियों पर दालचीनी-भूरे अंडाकार धब्बे"
+      ],
+      "mr": [
+        "पानांवर दालचिनी-तपकिरी अंडाकार फोड"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Puccinia sorghi fungus",
+        "Cool humid weather",
+        "Spores carried by wind"
+      ],
+      "hi": [
+        "Puccinia sorghi कवक"
+      ],
+      "mr": [
+        "Puccinia sorghi बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected leaves",
+          "Apply sulfur-based fungicide"
+        ],
+        "hi": [
+          "संक्रमित पत्तियां हटाएं"
+        ],
+        "mr": [
+          "संक्रमित पाने काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Propiconazole 25% EC @ 1ml/L",
+          "Tebuconazole 25.9% EC @ 1ml/L"
+        ],
+        "hi": [
+          "प्रोपिकोनाज़ोल 25% EC @ 1ml/L"
+        ],
+        "mr": [
+          "प्रोपिकोनाझोल 25% EC @ 1ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant hybrids",
+        "Practice crop rotation",
+        "Early planting"
+      ],
+      "hi": [
+        "प्रतिरोधी संकर लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक संकर लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Apply fungicide immediately.",
+        "hi": "तुरंत कवकनाशी लगाएं।",
+        "mr": "लगेच बुरशीनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Monitor and prepare treatment.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      },
+      "low": {
+        "en": "Early stage — preventive measures sufficient.",
+        "hi": "शुरुआती अवस्था।",
+        "mr": "सुरुवाती टप्पा."
+      }
+    }
+  },
+  "corn_northern_leaf_blight": {
+    "name": {
+      "en": "Northern Leaf Blight",
+      "hi": "नॉर्दर्न लीफ ब्लाइट",
+      "mr": "नॉर्दर्न लीफ ब्लाइट"
+    },
+    "crop": "Corn",
+    "description": {
+      "en": "Northern corn leaf blight (NCLB) is caused by Exserohilum turcicum. It produces large cigar-shaped gray-green lesions on corn leaves.",
+      "hi": "नॉर्दर्न कॉर्न लीफ ब्लाइट Exserohilum turcicum के कारण होता है।",
+      "mr": "नॉर्दर्न कॉर्न लीफ ब्लाइट Exserohilum turcicum यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Large cigar-shaped gray-green lesions (2-15 cm)",
+        "Lesions start on lower leaves",
+        "Severe infection leads to complete leaf death"
+      ],
+      "hi": [
+        "बड़े सिगार के आकार के धूसर-हरे धब्बे"
+      ],
+      "mr": [
+        "मोठे सिगार आकाराचे धूसर-हिरवे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Exserohilum turcicum fungus",
+        "Cool humid weather (18-27°C)",
+        "Overhead irrigation or heavy dews"
+      ],
+      "hi": [
+        "Exserohilum turcicum कवक",
+        "ठंडा आर्द्र मौसम"
+      ],
+      "mr": [
+        "Exserohilum turcicum बुरशी",
+        "थंड दमट हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Crop rotation",
+          "Remove crop debris"
+        ],
+        "hi": [
+          "फसल चक्र",
+          "फसल मलबा हटाएं"
+        ],
+        "mr": [
+          "पीक चक्र",
+          "पिकाचे अवशेष काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Azoxystrobin 23% SC @ 1ml/L",
+          "Propiconazole 25% EC @ 1ml/L"
+        ],
+        "hi": [
+          "एज़ोक्सीस्ट्रोबिन @ 1ml/L"
+        ],
+        "mr": [
+          "अझोक्सिस्ट्रोबिन @ 1ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant hybrids",
+        "Rotate crops",
+        "Manage crop residue"
+      ],
+      "hi": [
+        "प्रतिरोधी संकर लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक संकर लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately to prevent yield loss.",
+        "hi": "उपज हानि रोकने के लिए तुरंत उपचार करें।",
+        "mr": "उत्पादन हानी टाळण्यासाठी त्वरित उपचार करा."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "corn_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Corn",
+    "description": {
+      "en": "The corn plant appears healthy.",
+      "hi": "मक्का का पौधा स्वस्थ है।",
+      "mr": "मक्का रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल जारी रखें"
+      ],
+      "mr": [
+        "नियमित काळजी चालू ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "grape_black_rot": {
+    "name": {
+      "en": "Black Rot",
+      "hi": "ब्लैक रॉट",
+      "mr": "ब्लॅक रॉट"
+    },
+    "crop": "Grape",
+    "description": {
+      "en": "Grape black rot is caused by Guignardia bidwellii. It causes circular brown lesions on leaves and black shriveled berries (mummies).",
+      "hi": "अंगूर का ब्लैक रॉट Guignardia bidwellii के कारण होता है।",
+      "mr": "द्राक्षांचा ब्लॅक रॉट Guignardia bidwellii यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Circular tan to brown leaf spots with dark borders",
+        "Black shriveled berries",
+        "Cankers on shoots"
+      ],
+      "hi": [
+        "पत्तियों पर गोल भूरे धब्बे",
+        "काली सिकुड़ी बेरियां"
+      ],
+      "mr": [
+        "पानांवर गोल तपकिरी ठिपके",
+        "काळ्या आकुंचित बेरी"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Guignardia bidwellii fungus",
+        "Warm wet spring weather",
+        "Infected mummies on ground"
+      ],
+      "hi": [
+        "Guignardia bidwellii कवक"
+      ],
+      "mr": [
+        "Guignardia bidwellii बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove all mummified berries",
+          "Destroy infected debris",
+          "Apply copper fungicide"
+        ],
+        "hi": [
+          "सभी सूखी बेरियां हटाएं"
+        ],
+        "mr": [
+          "सर्व सुकलेल्या बेरी काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Mancozeb 75% WP @ 2g/L",
+          "Myclobutanil @ 0.5ml/L"
+        ],
+        "hi": [
+          "मैंकोज़ेब 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "मँकोझेब 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Sanitation — remove mummies",
+        "Prune for air circulation",
+        "Preventive fungicide program"
+      ],
+      "hi": [
+        "स्वच्छता — सूखी बेरियां हटाएं"
+      ],
+      "mr": [
+        "स्वच्छता — सुकलेल्या बेरी काढा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार करें।",
+        "mr": "त्वरित उपचार करा."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "grape_esca": {
+    "name": {
+      "en": "Esca (Black Measles)",
+      "hi": "एस्का (ब्लैक मीज़ल्स)",
+      "mr": "एस्का (ब्लॅक मीझल्स)"
+    },
+    "crop": "Grape",
+    "description": {
+      "en": "Esca is a complex fungal disease involving Phaeoacremonium and Phaeomoniella species. It causes 'tiger-stripe' patterns on leaves and can kill entire vines.",
+      "hi": "एस्का एक जटिल कवक रोग है।",
+      "mr": "एस्का हा एक जटिल बुरशीजन्य रोग आहे."
+    },
+    "symptoms": {
+      "en": [
+        "'Tiger-stripe' interveinal chlorosis on leaves",
+        "Dark spotting on berries",
+        "Internal wood decay",
+        "Sudden vine death (apoplexy)"
+      ],
+      "hi": [
+        "पत्तियों पर 'बाघ-धारी' पैटर्न",
+        "बेरियों पर काले धब्बे"
+      ],
+      "mr": [
+        "पानांवर 'वाघ-पट्टे' नमुना",
+        "बेरींवर काळे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Multiple fungal pathogens in wood",
+        "Pruning wounds as entry points",
+        "Water stress"
+      ],
+      "hi": [
+        "लकड़ी में कई कवक रोगज़नक़"
+      ],
+      "mr": [
+        "लाकडात अनेक बुरशीजन्य रोगजनक"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove and destroy infected vines",
+          "Apply wound protectants after pruning"
+        ],
+        "hi": [
+          "संक्रमित बेलें हटाएं"
+        ],
+        "mr": [
+          "संक्रमित वेली काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No fully effective chemical treatment",
+          "Preventive wound treatment after pruning"
+        ],
+        "hi": [
+          "कोई पूर्ण प्रभावी रासायनिक उपचार नहीं"
+        ],
+        "mr": [
+          "कोणताही पूर्ण प्रभावी रासायनिक उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Minimize pruning wounds",
+        "Apply wound sealants",
+        "Maintain vine health"
+      ],
+      "hi": [
+        "छंटाई के घाव कम करें"
+      ],
+      "mr": [
+        "छाटणीचे जखम कमी करा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Remove severely affected vines.",
+        "hi": "गंभीर रूप से प्रभावित बेलें हटाएं।",
+        "mr": "गंभीरपणे प्रभावित वेली काढा."
+      },
+      "moderate": {
+        "en": "Monitor and protect wounds.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      },
+      "low": {
+        "en": "Preventive care.",
+        "hi": "निवारक देखभाल।",
+        "mr": "प्रतिबंधात्मक काळजी."
+      }
+    }
+  },
+  "grape_leaf_blight": {
+    "name": {
+      "en": "Leaf Blight (Isariopsis)",
+      "hi": "लीफ ब्लाइट",
+      "mr": "लीफ ब्लाइट"
+    },
+    "crop": "Grape",
+    "description": {
+      "en": "Grape leaf blight, also called Isariopsis leaf spot, is caused by Pseudocercospora vitis. It causes dark brown angular lesions on leaves.",
+      "hi": "अंगूर का लीफ ब्लाइट Pseudocercospora vitis के कारण होता है।",
+      "mr": "द्राक्षांचा लीफ ब्लाइट Pseudocercospora vitis यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Dark brown angular spots on leaves",
+        "Yellow halo around lesions",
+        "Premature defoliation"
+      ],
+      "hi": [
+        "पत्तियों पर गहरे भूरे कोणीय धब्बे"
+      ],
+      "mr": [
+        "पानांवर गडद तपकिरी कोनीय ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Pseudocercospora vitis fungus",
+        "High humidity",
+        "Poor ventilation"
+      ],
+      "hi": [
+        "Pseudocercospora vitis कवक"
+      ],
+      "mr": [
+        "Pseudocercospora vitis बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected leaves",
+          "Improve air circulation"
+        ],
+        "hi": [
+          "संक्रमित पत्तियां हटाएं"
+        ],
+        "mr": [
+          "संक्रमित पाने काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Mancozeb 75% WP @ 2g/L",
+          "Copper oxychloride @ 3g/L"
+        ],
+        "hi": [
+          "मैंकोज़ेब 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "मँकोझेब 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Prune for air flow",
+        "Remove fallen leaves"
+      ],
+      "hi": [
+        "हवा के प्रवाह के लिए छंटाई"
+      ],
+      "mr": [
+        "हवेच्या प्रवाहासाठी छाटणी"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "grape_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Grape",
+    "description": {
+      "en": "The grape plant appears healthy.",
+      "hi": "अंगूर का पौधा स्वस्थ है।",
+      "mr": "द्राक्ष रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल जारी रखें"
+      ],
+      "mr": [
+        "नियमित काळजी चालू ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "orange_haunglongbing": {
+    "name": {
+      "en": "Huanglongbing (Citrus Greening)",
+      "hi": "हुआंगलोंगबिंग (सिट्रस ग्रीनिंग)",
+      "mr": "हुआंगलोंगबिंग (सिट्रस ग्रीनिंग)"
+    },
+    "crop": "Orange",
+    "description": {
+      "en": "Huanglongbing (HLB), also called citrus greening, is caused by Candidatus Liberibacter bacteria spread by the Asian citrus psyllid. It is the most devastating citrus disease worldwide.",
+      "hi": "HLB सिट्रस का सबसे विनाशकारी रोग है।",
+      "mr": "HLB हा सिट्रसचा सर्वात विनाशकारी रोग आहे."
+    },
+    "symptoms": {
+      "en": [
+        "Asymmetric yellow blotching on leaves",
+        "Small lopsided bitter fruit",
+        "Premature fruit drop",
+        "Twig dieback"
+      ],
+      "hi": [
+        "पत्तियों पर असममित पीले धब्बे",
+        "छोटे टेढ़े कड़वे फल"
+      ],
+      "mr": [
+        "पानांवर असममित पिवळे ठिपके",
+        "लहान वाकडे कडू फळ"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Candidatus Liberibacter bacteria",
+        "Asian citrus psyllid vector",
+        "Grafting from infected trees"
+      ],
+      "hi": [
+        "Candidatus Liberibacter बैक्टीरिया"
+      ],
+      "mr": [
+        "Candidatus Liberibacter बॅक्टेरिया"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected trees immediately",
+          "Control psyllid populations with natural predators",
+          "Apply neem oil for psyllid control"
+        ],
+        "hi": [
+          "संक्रमित पेड़ तुरंत हटाएं"
+        ],
+        "mr": [
+          "संक्रमित झाडे लगेच काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Imidacloprid for psyllid control",
+          "Dimethoate 30% EC @ 2ml/L",
+          "No cure exists — manage psyllid vector"
+        ],
+        "hi": [
+          "साइलिड नियंत्रण के लिए इमिडाक्लोप्रिड"
+        ],
+        "mr": [
+          "सायलिड नियंत्रणासाठी इमिडाक्लोप्रिड"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use certified disease-free nursery stock",
+        "Control psyllid populations aggressively",
+        "Remove infected trees promptly",
+        "Use reflective mulch to deter psyllids"
+      ],
+      "hi": [
+        "प्रमाणित रोग-मुक्त पौध सामग्री उपयोग करें"
+      ],
+      "mr": [
+        "प्रमाणित रोगमुक्त रोपे वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "CRITICAL: No cure. Remove tree and control psyllids.",
+        "hi": "गंभीर: कोई इलाज नहीं। पेड़ हटाएं।",
+        "mr": "गंभीर: इलाज नाही. झाड काढा."
+      },
+      "moderate": {
+        "en": "Test and control psyllids.",
+        "hi": "साइलिड नियंत्रित करें।",
+        "mr": "सायलिड नियंत्रित करा."
+      },
+      "low": {
+        "en": "Monitor for psyllid activity.",
+        "hi": "साइलिड गतिविधि की निगरानी करें।",
+        "mr": "सायलिड क्रियेचे निरीक्षण करा."
+      }
+    }
+  },
+  "peach_bacterial_spot": {
+    "name": {
+      "en": "Bacterial Spot",
+      "hi": "बैक्टीरियल स्पॉट",
+      "mr": "बॅक्टेरियल स्पॉट"
+    },
+    "crop": "Peach",
+    "description": {
+      "en": "Bacterial spot of peach is caused by Xanthomonas arboricola pv. pruni. It causes angular leaf spots and fruit lesions.",
+      "hi": "आड़ू का बैक्टीरियल स्पॉट Xanthomonas arboricola के कारण होता है।",
+      "mr": "पीचचा बॅक्टेरियल स्पॉट Xanthomonas arboricola यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Angular water-soaked leaf spots",
+        "Shot-hole appearance on leaves",
+        "Sunken brown spots on fruit",
+        "Twig cankers"
+      ],
+      "hi": [
+        "पत्तियों पर कोणीय पानी जैसे धब्बे"
+      ],
+      "mr": [
+        "पानांवर कोनीय पाण्यासारखे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Xanthomonas arboricola bacteria",
+        "Wind-driven rain",
+        "Warm humid weather"
+      ],
+      "hi": [
+        "Xanthomonas arboricola बैक्टीरिया"
+      ],
+      "mr": [
+        "Xanthomonas arboricola बॅक्टेरिया"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Apply copper-based bactericide",
+          "Remove infected shoots"
+        ],
+        "hi": [
+          "कॉपर आधारित जीवाणुनाशक लगाएं"
+        ],
+        "mr": [
+          "कॉपर आधारित जीवाणूनाशक फवारा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Copper hydroxide @ 2g/L",
+          "Oxytetracycline as foliar spray"
+        ],
+        "hi": [
+          "कॉपर हाइड्रोक्साइड @ 2g/L"
+        ],
+        "mr": [
+          "कॉपर हायड्रोक्साइड @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant varieties",
+        "Avoid overhead irrigation",
+        "Apply dormant copper sprays"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Heavy infection — treat urgently.",
+        "hi": "भारी संक्रमण — तुरंत उपचार।",
+        "mr": "जास्त संसर्ग — त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "peach_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Peach",
+    "description": {
+      "en": "The peach plant appears healthy.",
+      "hi": "आड़ू का पौधा स्वस्थ है।",
+      "mr": "पीच रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "pepper_bacterial_spot": {
+    "name": {
+      "en": "Bacterial Spot",
+      "hi": "बैक्टीरियल स्पॉट",
+      "mr": "बॅक्टेरियल स्पॉट"
+    },
+    "crop": "Pepper",
+    "description": {
+      "en": "Bacterial spot of pepper is caused by Xanthomonas species. It creates water-soaked lesions on leaves and fruit, leading to defoliation and sunscald.",
+      "hi": "शिमला मिर्च का बैक्टीरियल स्पॉट Xanthomonas प्रजातियों के कारण होता है।",
+      "mr": "भोपळ्याचा बॅक्टेरियल स्पॉट Xanthomonas प्रजातींमुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Small dark water-soaked spots on leaves",
+        "Raised scab-like spots on fruit",
+        "Defoliation and sunscald of fruit"
+      ],
+      "hi": [
+        "पत्तियों पर छोटे गहरे पानी जैसे धब्बे"
+      ],
+      "mr": [
+        "पानांवर लहान गडद पाण्यासारखे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Xanthomonas bacteria",
+        "Warm wet weather",
+        "Contaminated seeds"
+      ],
+      "hi": [
+        "Xanthomonas बैक्टीरिया",
+        "गर्म गीला मौसम"
+      ],
+      "mr": [
+        "Xanthomonas बॅक्टेरिया",
+        "उष्ण ओले हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Copper-based bactericide",
+          "Remove infected plants"
+        ],
+        "hi": [
+          "कॉपर आधारित जीवाणुनाशक"
+        ],
+        "mr": [
+          "कॉपर आधारित जीवाणूनाशक"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Copper hydroxide + Mancozeb",
+          "Streptomycin sulfate"
+        ],
+        "hi": [
+          "कॉपर हाइड्रोक्साइड + मैंकोज़ेब"
+        ],
+        "mr": [
+          "कॉपर हायड्रोक्साइड + मँकोझेब"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use certified disease-free seed",
+        "Crop rotation (2-3 years)",
+        "Avoid overhead irrigation"
+      ],
+      "hi": [
+        "प्रमाणित रोग-मुक्त बीज उपयोग करें"
+      ],
+      "mr": [
+        "प्रमाणित रोगमुक्त बियाणे वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "pepper_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Pepper",
+    "description": {
+      "en": "The pepper plant appears healthy.",
+      "hi": "शिमला मिर्च स्वस्थ है।",
+      "mr": "भोपळा रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "potato_early_blight": {
+    "name": {
+      "en": "Early Blight",
+      "hi": "अर्ली ब्लाइट",
+      "mr": "अर्ली ब्लाइट"
+    },
+    "crop": "Potato",
+    "description": {
+      "en": "Early blight in potato is caused by Alternaria solani. It produces dark, target-like lesions on lower leaves and can reduce yield by 20-30%.",
+      "hi": "आलू में अर्ली ब्लाइट Alternaria solani के कारण होता है।",
+      "mr": "बटाट्यातील अर्ली ब्लाइट Alternaria solani यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Dark concentric lesions on lower leaves",
+        "Yellowing and wilting of affected leaves",
+        "Tuber lesions with dark sunken areas"
+      ],
+      "hi": [
+        "निचली पत्तियों पर गहरे गोलाकार धब्बे",
+        "प्रभावित पत्तियों का पीलापन"
+      ],
+      "mr": [
+        "खालच्या पानांवर गडद गोलाकार ठिपके",
+        "प्रभावित पानांचा पिवळसरपणा"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Alternaria solani",
+        "Warm temperatures (24-29°C)",
+        "High humidity"
+      ],
+      "hi": [
+        "Alternaria solani",
+        "गर्म तापमान",
+        "अधिक आर्द्रता"
+      ],
+      "mr": [
+        "Alternaria solani",
+        "उष्ण तापमान",
+        "जास्त आर्द्रता"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Crop rotation (3+ years)",
+          "Remove infected debris",
+          "Apply neem oil spray"
+        ],
+        "hi": [
+          "फसल चक्र (3+ वर्ष)",
+          "संक्रमित मलबा हटाएं"
+        ],
+        "mr": [
+          "पीक चक्र (3+ वर्षे)",
+          "संक्रमित अवशेष काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Mancozeb 75% WP @ 2g/L",
+          "Chlorothalonil 75% WP @ 2g/L"
+        ],
+        "hi": [
+          "मैंकोज़ेब 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "मँकोझेब 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use certified seed potatoes",
+        "Ensure good drainage",
+        "Maintain plant spacing"
+      ],
+      "hi": [
+        "प्रमाणित बीज आलू उपयोग करें"
+      ],
+      "mr": [
+        "प्रमाणित बियाणे बटाटा वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Immediate treatment needed.",
+        "hi": "तत्काल उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply preventive treatment.",
+        "hi": "निवारक उपचार।",
+        "mr": "प्रतिबंधात्मक उपचार."
+      },
+      "low": {
+        "en": "Monitor closely.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "potato_late_blight": {
+    "name": {
+      "en": "Late Blight",
+      "hi": "लेट ब्लाइट",
+      "mr": "लेट ब्लाइट"
+    },
+    "crop": "Potato",
+    "description": {
+      "en": "Late blight, caused by Phytophthora infestans, is the disease that caused the Irish Potato Famine. It can destroy entire potato fields within days.",
+      "hi": "लेट ब्लाइट Phytophthora infestans के कारण होता है।",
+      "mr": "लेट ब्लाइट Phytophthora infestans यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Water-soaked lesions on leaves",
+        "White sporulation on leaf undersides",
+        "Rapid plant death",
+        "Reddish-brown dry rot in tubers"
+      ],
+      "hi": [
+        "पत्तियों पर पानी जैसे धब्बे",
+        "पत्तियों के नीचे सफेद बीजाणु"
+      ],
+      "mr": [
+        "पानांवर पाण्यासारखे ठिपके",
+        "पानांच्या खाली पांढरे बीजाणू"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Phytophthora infestans",
+        "Cool wet weather (15-25°C)",
+        "High humidity"
+      ],
+      "hi": [
+        "Phytophthora infestans",
+        "ठंडा गीला मौसम"
+      ],
+      "mr": [
+        "Phytophthora infestans",
+        "थंड ओले हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Destroy infected plants immediately",
+          "Apply copper fungicide"
+        ],
+        "hi": [
+          "संक्रमित पौधों को तुरंत नष्ट करें"
+        ],
+        "mr": [
+          "संक्रमित रोपे लगेच नष्ट करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Metalaxyl + Mancozeb @ 2.5g/L",
+          "Cymoxanil + Mancozeb"
+        ],
+        "hi": [
+          "मेटालैक्सिल + मैंकोज़ेब @ 2.5g/L"
+        ],
+        "mr": [
+          "मेटालॅक्सिल + मँकोझेब @ 2.5g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use resistant varieties",
+        "Avoid overhead irrigation",
+        "Monitor weather"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्मों का उपयोग करें"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "CRITICAL: Act immediately.",
+        "hi": "गंभीर: तुरंत कार्रवाई।",
+        "mr": "गंभीर: लगेच कृती करा."
+      },
+      "moderate": {
+        "en": "Apply treatment urgently.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "low": {
+        "en": "Start preventive measures.",
+        "hi": "निवारक उपाय शुरू करें।",
+        "mr": "प्रतिबंधात्मक उपाय सुरू करा."
+      }
+    }
+  },
+  "potato_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Potato",
+    "description": {
+      "en": "Plant appears healthy.",
+      "hi": "पौधा स्वस्थ है।",
+      "mr": "रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No symptoms"
+      ],
+      "hi": [
+        "कोई लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "raspberry_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Raspberry",
+    "description": {
+      "en": "The raspberry plant appears healthy.",
+      "hi": "रास्पबेरी स्वस्थ है।",
+      "mr": "रास्पबेरी निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "soybean_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Soybean",
+    "description": {
+      "en": "The soybean plant appears healthy.",
+      "hi": "सोयाबीन स्वस्थ है।",
+      "mr": "सोयाबीन निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "squash_powdery_mildew": {
+    "name": {
+      "en": "Powdery Mildew",
+      "hi": "पाउडरी मिल्ड्यू",
+      "mr": "पावडरी मिल्ड्यू"
+    },
+    "crop": "Squash",
+    "description": {
+      "en": "Powdery mildew on squash is caused by Podosphaera xanthii. It covers leaves with white powdery patches, reducing photosynthesis.",
+      "hi": "स्क्वॉश पर पाउडरी मिल्ड्यू Podosphaera xanthii के कारण होता है।",
+      "mr": "स्क्वॉशवरील पावडरी मिल्ड्यू Podosphaera xanthii यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "White powdery patches on leaf surfaces",
+        "Yellowing of affected leaves",
+        "Premature defoliation"
+      ],
+      "hi": [
+        "पत्तियों पर सफेद पाउडर जैसे धब्बे"
+      ],
+      "mr": [
+        "पानांवर पांढरी भुकटी सारखे ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Podosphaera xanthii fungus",
+        "Warm dry weather",
+        "Dense planting"
+      ],
+      "hi": [
+        "Podosphaera xanthii कवक"
+      ],
+      "mr": [
+        "Podosphaera xanthii बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Neem oil spray",
+          "Potassium bicarbonate spray",
+          "Milk spray (40% milk:water)"
+        ],
+        "hi": [
+          "नीम तेल छिड़काव"
+        ],
+        "mr": [
+          "कडुलिंब तेल फवारणी"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Myclobutanil @ 0.5ml/L",
+          "Sulfur-based fungicide"
+        ],
+        "hi": [
+          "माइक्लोब्यूटानिल @ 0.5ml/L"
+        ],
+        "mr": [
+          "मायक्लोब्युटॅनिल @ 0.5ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant resistant varieties",
+        "Good spacing for air flow",
+        "Avoid overhead watering"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Apply treatment urgently.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply preventive spray.",
+        "hi": "निवारक छिड़काव।",
+        "mr": "प्रतिबंधात्मक फवारणी."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "strawberry_leaf_scorch": {
+    "name": {
+      "en": "Leaf Scorch",
+      "hi": "लीफ स्कॉर्च",
+      "mr": "लीफ स्कॉर्च"
+    },
+    "crop": "Strawberry",
+    "description": {
+      "en": "Strawberry leaf scorch is caused by Diplocarpon earlianum. It creates purple-black spots that coalesce to scorch entire leaves.",
+      "hi": "स्ट्रॉबेरी का लीफ स्कॉर्च Diplocarpon earlianum के कारण होता है।",
+      "mr": "स्ट्रॉबेरीचा लीफ स्कॉर्च Diplocarpon earlianum यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Small purple spots on leaves",
+        "Spots merge causing scorched appearance",
+        "Affected leaves dry and curl"
+      ],
+      "hi": [
+        "पत्तियों पर छोटे बैंगनी धब्बे",
+        "धब्बे मिलकर झुलसा रूप बनाते हैं"
+      ],
+      "mr": [
+        "पानांवर लहान जांभळे ठिपके",
+        "ठिपके एकत्र होऊन भाजलेले दिसतात"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Diplocarpon earlianum fungus",
+        "Warm wet weather",
+        "Overhead irrigation"
+      ],
+      "hi": [
+        "Diplocarpon earlianum कवक"
+      ],
+      "mr": [
+        "Diplocarpon earlianum बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected leaves",
+          "Apply neem oil spray",
+          "Improve air circulation"
+        ],
+        "hi": [
+          "संक्रमित पत्तियां हटाएं"
+        ],
+        "mr": [
+          "संक्रमित पाने काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Captan 50% WP @ 2g/L",
+          "Mancozeb 75% WP @ 2g/L"
+        ],
+        "hi": [
+          "कैप्टन 50% WP @ 2g/L"
+        ],
+        "mr": [
+          "कॅप्टन 50% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use resistant varieties",
+        "Proper plant spacing",
+        "Avoid overhead irrigation"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में लगाएं"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "strawberry_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Strawberry",
+    "description": {
+      "en": "The strawberry plant appears healthy.",
+      "hi": "स्ट्रॉबेरी स्वस्थ है।",
+      "mr": "स्ट्रॉबेरी निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Continue regular care"
+      ],
+      "hi": [
+        "नियमित देखभाल"
+      ],
+      "mr": [
+        "नियमित काळजी"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "tomato_bacterial_spot": {
+    "name": {
+      "en": "Bacterial Spot",
+      "hi": "बैक्टीरियल स्पॉट",
+      "mr": "बॅक्टेरियल स्पॉट"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Bacterial spot of tomato is caused by Xanthomonas species. It causes small dark water-soaked lesions on leaves, stems, and fruit.",
+      "hi": "टमाटर का बैक्टीरियल स्पॉट Xanthomonas प्रजातियों के कारण होता है।",
+      "mr": "टोमॅटोचा बॅक्टेरियल स्पॉट Xanthomonas प्रजातींमुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Small dark water-soaked spots on leaves",
+        "Spots may develop yellow halos",
+        "Raised scab-like lesions on fruit",
+        "Defoliation"
+      ],
+      "hi": [
+        "पत्तियों पर छोटे गहरे पानी जैसे धब्बे",
+        "फलों पर उभरे खुरदुरे धब्बे"
+      ],
+      "mr": [
+        "पानांवर लहान गडद पाण्यासारखे ठिपके",
+        "फळांवर उभे खरबरीत ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Xanthomonas bacteria",
+        "Warm wet weather",
+        "Contaminated seeds",
+        "Overhead irrigation"
+      ],
+      "hi": [
+        "Xanthomonas बैक्टीरिया",
+        "गर्म गीला मौसम"
+      ],
+      "mr": [
+        "Xanthomonas बॅक्टेरिया",
+        "उष्ण ओले हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Copper-based bactericide",
+          "Remove infected plants",
+          "Avoid working in wet fields"
+        ],
+        "hi": [
+          "कॉपर आधारित जीवाणुनाशक"
+        ],
+        "mr": [
+          "कॉपर आधारित जीवाणूनाशक"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Copper hydroxide + Mancozeb",
+          "Streptocycline 500ppm"
+        ],
+        "hi": [
+          "कॉपर हाइड्रोक्साइड + मैंकोज़ेब"
+        ],
+        "mr": [
+          "कॉपर हायड्रोक्साइड + मँकोझेब"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use certified disease-free seed",
+        "Crop rotation",
+        "Avoid overhead irrigation",
+        "Sanitize tools"
+      ],
+      "hi": [
+        "प्रमाणित रोग-मुक्त बीज"
+      ],
+      "mr": [
+        "प्रमाणित रोगमुक्त बियाणे"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "tomato_early_blight": {
+    "name": {
+      "en": "Early Blight",
+      "hi": "अर्ली ब्लाइट",
+      "mr": "अर्ली ब्लाइट"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Early blight is caused by Alternaria solani. It creates dark concentric ring-shaped lesions (bull's eye pattern) on leaves.",
+      "hi": "अर्ली ब्लाइट Alternaria solani कवक के कारण होता है।",
+      "mr": "अर्ली ब्लाइट Alternaria solani बुरशीमुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Dark concentric rings on leaves (bull's eye)",
+        "Yellowing around lesions",
+        "Premature leaf drop",
+        "Fruit rot on shoulders"
+      ],
+      "hi": [
+        "पत्तियों पर गहरे गोलाकार छल्ले",
+        "घावों के चारों ओर पीलापन"
+      ],
+      "mr": [
+        "पानांवर काळे गोलाकार रिंग",
+        "जखमांभोवती पिवळसरपणा"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Alternaria solani fungus",
+        "Warm humid weather (24-29°C)",
+        "Wet foliage",
+        "Poor air circulation"
+      ],
+      "hi": [
+        "Alternaria solani कवक",
+        "गर्म आर्द्र मौसम"
+      ],
+      "mr": [
+        "Alternaria solani बुरशी",
+        "उष्ण दमट हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected material",
+          "Neem oil spray (5ml/L)",
+          "Trichoderma viride bio-fungicide",
+          "Mulch around plants"
+        ],
+        "hi": [
+          "संक्रमित सामग्री हटाएं",
+          "नीम तेल छिड़काव"
+        ],
+        "mr": [
+          "संक्रमित साहित्य काढा",
+          "कडुलिंब तेल फवारणी"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Mancozeb 75% WP @ 2g/L",
+          "Azoxystrobin 23% SC @ 1ml/L",
+          "Spray every 7-10 days"
+        ],
+        "hi": [
+          "मैंकोज़ेब 75% WP @ 2g/L",
+          "हर 7-10 दिन छिड़काव"
+        ],
+        "mr": [
+          "मँकोझेब 75% WP @ 2g/L",
+          "दर 7-10 दिवसांनी फवारणी"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use disease-free seeds",
+        "3-year crop rotation",
+        "Adequate spacing (60cm)",
+        "Water at base only"
+      ],
+      "hi": [
+        "रोग-मुक्त बीज",
+        "3 साल फसल चक्र"
+      ],
+      "mr": [
+        "रोगमुक्त बियाणे",
+        "3 वर्षे पीक चक्र"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Immediate action required.",
+        "hi": "तत्काल कार्रवाई।",
+        "mr": "त्वरित कार्यवाही."
+      },
+      "moderate": {
+        "en": "Apply preventive treatment.",
+        "hi": "निवारक उपचार।",
+        "mr": "प्रतिबंधात्मक उपचार."
+      },
+      "low": {
+        "en": "Early stage — preventive measures.",
+        "hi": "प्रारंभिक अवस्था।",
+        "mr": "सुरुवाती टप्पा."
+      }
+    }
+  },
+  "tomato_late_blight": {
+    "name": {
+      "en": "Late Blight",
+      "hi": "लेट ब्लाइट",
+      "mr": "लेट ब्लाइट"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Late blight is caused by Phytophthora infestans. It can destroy entire fields within days under cool wet conditions.",
+      "hi": "लेट ब्लाइट Phytophthora infestans के कारण होता है।",
+      "mr": "लेट ब्लाइट Phytophthora infestans यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Water-soaked dark lesions on leaves",
+        "White fuzzy growth on leaf undersides",
+        "Rapid browning and death",
+        "Dark brown rot on fruit"
+      ],
+      "hi": [
+        "पत्तियों पर पानी से भरे गहरे धब्बे",
+        "पत्तियों के नीचे सफेद रोंयेदार वृद्धि"
+      ],
+      "mr": [
+        "पानांवर पाण्याने भरलेले काळे ठिपके",
+        "पानांच्या खाली पांढरे रेशेदार वाढ"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Phytophthora infestans",
+        "Cool temperatures (15-25°C)",
+        "High humidity >90%",
+        "Prolonged leaf wetness"
+      ],
+      "hi": [
+        "Phytophthora infestans",
+        "ठंडा तापमान"
+      ],
+      "mr": [
+        "Phytophthora infestans",
+        "थंड तापमान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove and destroy infected plants",
+          "Apply copper fungicide (Bordeaux mixture)",
+          "Increase plant spacing"
+        ],
+        "hi": [
+          "संक्रमित पौधे हटाकर नष्ट करें"
+        ],
+        "mr": [
+          "संक्रमित रोपे काढून नष्ट करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Metalaxyl-M + Mancozeb @ 2.5g/L",
+          "Dimethomorph + Mancozeb @ 2g/L",
+          "Spray every 5-7 days"
+        ],
+        "hi": [
+          "मेटालैक्सिल-एम + मैंकोज़ेब @ 2.5g/L"
+        ],
+        "mr": [
+          "मेटालॅक्सिल-एम + मँकोझेब @ 2.5g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use resistant varieties",
+        "Avoid overhead irrigation",
+        "Monitor weather forecasts",
+        "Apply preventive fungicide in wet weather"
+      ],
+      "hi": [
+        "प्रतिरोधी किस्में उपयोग करें"
+      ],
+      "mr": [
+        "प्रतिरोधक जाती वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "CRITICAL: Act immediately.",
+        "hi": "गंभीर: तुरंत कार्रवाई।",
+        "mr": "गंभीर: लगेच कृती करा."
+      },
+      "moderate": {
+        "en": "Apply protective treatment immediately.",
+        "hi": "तुरंत सुरक्षात्मक उपचार।",
+        "mr": "लगेच संरक्षणात्मक उपचार."
+      },
+      "low": {
+        "en": "Start preventive spraying.",
+        "hi": "निवारक छिड़काव शुरू करें।",
+        "mr": "प्रतिबंधात्मक फवारणी सुरू करा."
+      }
+    }
+  },
+  "tomato_leaf_mold": {
+    "name": {
+      "en": "Leaf Mold",
+      "hi": "लीफ मोल्ड",
+      "mr": "लीफ मोल्ड"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Tomato leaf mold is caused by Passalora fulva (formerly Cladosporium fulvum). It thrives in high humidity conditions, especially in greenhouses.",
+      "hi": "टमाटर का लीफ मोल्ड Passalora fulva के कारण होता है।",
+      "mr": "टोमॅटोचा लीफ मोल्ड Passalora fulva यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Pale green to yellow spots on upper leaf surface",
+        "Olive-green to brown velvety mold on undersides",
+        "Leaves curl and wither",
+        "Severe infection causes defoliation"
+      ],
+      "hi": [
+        "ऊपरी पत्ती पर हल्के हरे-पीले धब्बे",
+        "नीचे जैतून-भूरे मखमली फफूंदी"
+      ],
+      "mr": [
+        "वरच्या पानावर फिके हिरवे-पिवळे ठिपके",
+        "खाली ऑलिव्ह-तपकिरी मखमली बुरशी"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Passalora fulva fungus",
+        "High humidity (>85%)",
+        "Poor ventilation",
+        "Greenhouse conditions"
+      ],
+      "hi": [
+        "Passalora fulva कवक",
+        "अधिक आर्द्रता"
+      ],
+      "mr": [
+        "Passalora fulva बुरशी",
+        "जास्त आर्द्रता"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Improve ventilation",
+          "Reduce humidity",
+          "Remove infected leaves",
+          "Apply Bacillus-based biocontrol"
+        ],
+        "hi": [
+          "हवादारी बढ़ाएं",
+          "आर्द्रता कम करें"
+        ],
+        "mr": [
+          "हवेशीरपणा वाढवा",
+          "आर्द्रता कमी करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Chlorothalonil 75% WP @ 2g/L",
+          "Mancozeb 75% WP @ 2g/L"
+        ],
+        "hi": [
+          "क्लोरोथालोनिल 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "क्लोरोथॅलोनिल 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Ensure good greenhouse ventilation",
+        "Use resistant varieties",
+        "Avoid leaf wetness",
+        "Space plants adequately"
+      ],
+      "hi": [
+        "अच्छी हवादारी सुनिश्चित करें"
+      ],
+      "mr": [
+        "चांगली हवेशीरता सुनिश्चित करा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Improve ventilation and treat urgently.",
+        "hi": "हवादारी बढ़ाएं और उपचार करें।",
+        "mr": "हवेशीरपणा वाढवा आणि उपचार करा."
+      },
+      "moderate": {
+        "en": "Apply treatment and improve conditions.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Improve air circulation.",
+        "hi": "हवा का प्रवाह बढ़ाएं।",
+        "mr": "हवेचा प्रवाह वाढवा."
+      }
+    }
+  },
+  "tomato_septoria_leaf_spot": {
+    "name": {
+      "en": "Septoria Leaf Spot",
+      "hi": "सेप्टोरिया लीफ स्पॉट",
+      "mr": "सेप्टोरिया लीफ स्पॉट"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Septoria leaf spot is caused by Septoria lycopersici. It produces numerous small circular spots with dark borders and gray centers.",
+      "hi": "सेप्टोरिया लीफ स्पॉट Septoria lycopersici के कारण होता है।",
+      "mr": "सेप्टोरिया लीफ स्पॉट Septoria lycopersici यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Numerous small circular spots (1-3mm)",
+        "Dark borders with gray-white centers",
+        "Tiny black dots (pycnidia) in centers",
+        "Lower leaves affected first",
+        "Heavy defoliation"
+      ],
+      "hi": [
+        "छोटे गोलाकार धब्बे",
+        "गहरे किनारे और धूसर-सफेद केंद्र"
+      ],
+      "mr": [
+        "लहान गोलाकार ठिपके",
+        "गडद कडा आणि धूसर-पांढरे केंद्र"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Septoria lycopersici fungus",
+        "Warm wet weather (20-25°C)",
+        "Splashing rain or irrigation",
+        "Infected plant debris"
+      ],
+      "hi": [
+        "Septoria lycopersici कवक",
+        "गर्म गीला मौसम"
+      ],
+      "mr": [
+        "Septoria lycopersici बुरशी",
+        "उष्ण ओले हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected lower leaves",
+          "Apply copper fungicide",
+          "Mulch to prevent soil splash"
+        ],
+        "hi": [
+          "संक्रमित निचली पत्तियां हटाएं"
+        ],
+        "mr": [
+          "संक्रमित खालची पाने काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Chlorothalonil 75% WP @ 2g/L",
+          "Mancozeb 75% WP @ 2g/L",
+          "Spray every 7-10 days"
+        ],
+        "hi": [
+          "क्लोरोथालोनिल 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "क्लोरोथॅलोनिल 75% WP @ 2g/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Crop rotation",
+        "Remove plant debris",
+        "Avoid overhead watering",
+        "Proper plant spacing"
+      ],
+      "hi": [
+        "फसल चक्र",
+        "पौध मलबा हटाएं"
+      ],
+      "mr": [
+        "पीक चक्र",
+        "वनस्पती अवशेष काढा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat urgently.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Remove affected leaves.",
+        "hi": "प्रभावित पत्तियां हटाएं।",
+        "mr": "प्रभावित पाने काढा."
+      }
+    }
+  },
+  "tomato_spider_mites": {
+    "name": {
+      "en": "Spider Mites (Two-spotted)",
+      "hi": "स्पाइडर माइट्स",
+      "mr": "स्पायडर माइट्स"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Two-spotted spider mites (Tetranychus urticae) are tiny arachnids that suck cell contents from leaves, causing stippling and bronzing.",
+      "hi": "दो-धब्बेदार मकड़ी कीट (Tetranychus urticae) छोटे अरैक्निड हैं।",
+      "mr": "दोन-ठिपक्याचे कोळी माइट्स (Tetranychus urticae) लहान अॅराक्निड आहेत."
+    },
+    "symptoms": {
+      "en": [
+        "Fine stippling/speckling on leaves",
+        "Yellowing and bronzing of leaves",
+        "Fine webbing on leaf undersides",
+        "Leaf drop in severe cases"
+      ],
+      "hi": [
+        "पत्तियों पर बारीक बिंदु/धब्बे",
+        "पत्तियों का पीलापन और तांबे रंग"
+      ],
+      "mr": [
+        "पानांवर बारीक ठिपके",
+        "पानांचा पिवळसरपणा आणि तांब्या रंग"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Tetranychus urticae mites",
+        "Hot dry conditions",
+        "Dusty environments",
+        "Overuse of broad-spectrum pesticides"
+      ],
+      "hi": [
+        "Tetranychus urticae कीट",
+        "गर्म शुष्क परिस्थितियां"
+      ],
+      "mr": [
+        "Tetranychus urticae कीट",
+        "उष्ण कोरड्या परिस्थिती"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Spray water to dislodge mites",
+          "Apply neem oil (5ml/L)",
+          "Release predatory mites (Phytoseiulus)",
+          "Insecticidal soap spray"
+        ],
+        "hi": [
+          "कीटों को हटाने के लिए पानी का छिड़काव",
+          "नीम तेल (5ml/L)"
+        ],
+        "mr": [
+          "कीटकांना काढण्यासाठी पाणी फवारणी",
+          "कडुलिंब तेल (5ml/L)"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Abamectin 1.9% EC @ 0.5ml/L",
+          "Spiromesifen @ 0.8ml/L",
+          "Rotate acaricides to prevent resistance"
+        ],
+        "hi": [
+          "एबामेक्टिन 1.9% EC @ 0.5ml/L"
+        ],
+        "mr": [
+          "अॅबामेक्टिन 1.9% EC @ 0.5ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Monitor regularly with hand lens",
+        "Maintain humidity",
+        "Avoid dusty conditions",
+        "Preserve natural predators"
+      ],
+      "hi": [
+        "नियमित निगरानी",
+        "आर्द्रता बनाए रखें"
+      ],
+      "mr": [
+        "नियमित निरीक्षण",
+        "आर्द्रता राखा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Heavy infestation — treat immediately.",
+        "hi": "भारी प्रकोप — तुरंत उपचार।",
+        "mr": "जास्त प्रादुर्भाव — त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment before population explodes.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor and use biological control.",
+        "hi": "निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "tomato_target_spot": {
+    "name": {
+      "en": "Target Spot",
+      "hi": "टार्गेट स्पॉट",
+      "mr": "टार्गेट स्पॉट"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Target spot is caused by Corynespora cassiicola. It produces dark brown circular lesions with concentric rings, similar to early blight but often smaller.",
+      "hi": "टार्गेट स्पॉट Corynespora cassiicola के कारण होता है।",
+      "mr": "टार्गेट स्पॉट Corynespora cassiicola यामुळे होतो."
+    },
+    "symptoms": {
+      "en": [
+        "Dark brown circular lesions with concentric rings",
+        "Lesions on leaves, stems, and fruit",
+        "Yellow halos around spots",
+        "Premature defoliation"
+      ],
+      "hi": [
+        "गोलाकार गहरे भूरे धब्बे"
+      ],
+      "mr": [
+        "गोलाकार गडद तपकिरी ठिपके"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Corynespora cassiicola fungus",
+        "Warm humid conditions",
+        "Poor air circulation"
+      ],
+      "hi": [
+        "Corynespora cassiicola कवक"
+      ],
+      "mr": [
+        "Corynespora cassiicola बुरशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected leaves",
+          "Improve air circulation",
+          "Apply copper fungicide"
+        ],
+        "hi": [
+          "संक्रमित पत्तियां हटाएं"
+        ],
+        "mr": [
+          "संक्रमित पाने काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Azoxystrobin 23% SC @ 1ml/L",
+          "Chlorothalonil 75% WP @ 2g/L"
+        ],
+        "hi": [
+          "एज़ोक्सीस्ट्रोबिन @ 1ml/L"
+        ],
+        "mr": [
+          "अझोक्सिस्ट्रोबिन @ 1ml/L"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Crop rotation",
+        "Adequate plant spacing",
+        "Remove debris"
+      ],
+      "hi": [
+        "फसल चक्र"
+      ],
+      "mr": [
+        "पीक चक्र"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Treat immediately.",
+        "hi": "तुरंत उपचार।",
+        "mr": "त्वरित उपचार."
+      },
+      "moderate": {
+        "en": "Apply treatment.",
+        "hi": "उपचार करें।",
+        "mr": "उपचार करा."
+      },
+      "low": {
+        "en": "Monitor.",
+        "hi": "निगरानी।",
+        "mr": "निरीक्षण."
+      }
+    }
+  },
+  "tomato_yellow_leaf_curl_virus": {
+    "name": {
+      "en": "Yellow Leaf Curl Virus",
+      "hi": "येलो लीफ कर्ल वायरस",
+      "mr": "यलो लीफ कर्ल व्हायरस"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Tomato yellow leaf curl virus (TYLCV) is transmitted by whiteflies (Bemisia tabaci). It causes severe stunting and yield loss.",
+      "hi": "TYLCV सफेद मक्खी (Bemisia tabaci) द्वारा फैलता है।",
+      "mr": "TYLCV पांढऱ्या माशीने (Bemisia tabaci) पसरतो."
+    },
+    "symptoms": {
+      "en": [
+        "Upward curling of leaf margins",
+        "Yellowing and stunting",
+        "Reduced fruit set",
+        "Small crumpled leaves"
+      ],
+      "hi": [
+        "पत्तियों का ऊपर की ओर मुड़ना",
+        "पीलापन और बौनापन"
+      ],
+      "mr": [
+        "पानांच्या कडा वर मुडणे",
+        "पिवळसरपणा आणि खुंटणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "TYLCV (Begomovirus)",
+        "Whitefly (Bemisia tabaci) vector",
+        "Infected transplants"
+      ],
+      "hi": [
+        "TYLCV वायरस",
+        "सफेद मक्खी"
+      ],
+      "mr": [
+        "TYLCV विषाणू",
+        "पांढरी माशी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Remove infected plants",
+          "Control whiteflies with yellow sticky traps",
+          "Apply neem oil for whitefly control",
+          "No cure for virus — manage vector"
+        ],
+        "hi": [
+          "संक्रमित पौधे हटाएं",
+          "पीले चिपचिपे जाल"
+        ],
+        "mr": [
+          "संक्रमित रोपे काढा",
+          "पिवळे चिकट सापळे"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Imidacloprid for whitefly control",
+          "Thiamethoxam 25% WG @ 0.3g/L",
+          "Acetamiprid 20% SP @ 0.3g/L"
+        ],
+        "hi": [
+          "इमिडाक्लोप्रिड"
+        ],
+        "mr": [
+          "इमिडाक्लोप्रिड"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use virus-resistant varieties",
+        "Install insect-proof netting",
+        "Control whitefly populations",
+        "Remove weed hosts"
+      ],
+      "hi": [
+        "वायरस-प्रतिरोधी किस्में"
+      ],
+      "mr": [
+        "विषाणू-प्रतिरोधक जाती"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "No cure — remove plants and control whiteflies.",
+        "hi": "कोई इलाज नहीं — पौधे हटाएं।",
+        "mr": "इलाज नाही — रोपे काढा."
+      },
+      "moderate": {
+        "en": "Control whiteflies aggressively.",
+        "hi": "सफेद मक्खी नियंत्रित करें।",
+        "mr": "पांढरी माशी नियंत्रित करा."
+      },
+      "low": {
+        "en": "Monitor for whiteflies.",
+        "hi": "सफेद मक्खी की निगरानी।",
+        "mr": "पांढऱ्या माशीचे निरीक्षण."
+      }
+    }
+  },
+  "tomato_mosaic_virus": {
+    "name": {
+      "en": "Tomato Mosaic Virus",
+      "hi": "टमाटर मोज़ेक वायरस",
+      "mr": "टोमॅटो मोझॅक व्हायरस"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "Tomato mosaic virus (ToMV) causes mottled light and dark green patterns on leaves. It spreads through contaminated tools, hands, and seeds.",
+      "hi": "टमाटर मोज़ेक वायरस (ToMV) पत्तियों पर हल्के और गहरे हरे रंग के धब्बे बनाता है।",
+      "mr": "टोमॅटो मोझॅक व्हायरस (ToMV) पानांवर फिके आणि गडद हिरव्या रंगाचे ठिपके बनवतो."
+    },
+    "symptoms": {
+      "en": [
+        "Mosaic pattern of light/dark green on leaves",
+        "Leaf distortion and curling",
+        "Stunted growth",
+        "Reduced and distorted fruit"
+      ],
+      "hi": [
+        "पत्तियों पर हल्के/गहरे हरे रंग का मोज़ेक",
+        "पत्तियों का विकृत होना"
+      ],
+      "mr": [
+        "पानांवर फिक्या/गडद हिरव्या रंगाचे मोझॅक",
+        "पानांचे विकृत होणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Tomato mosaic virus (ToMV)",
+        "Mechanical transmission (hands, tools)",
+        "Contaminated seeds",
+        "Highly stable virus — persists in soil"
+      ],
+      "hi": [
+        "ToMV वायरस",
+        "हाथों और उपकरणों से फैलाव"
+      ],
+      "mr": [
+        "ToMV विषाणू",
+        "हात आणि साधनांद्वारे प्रसार"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No cure — remove infected plants",
+          "Disinfect hands and tools with milk (20%)",
+          "Do not smoke near plants (tobacco mosaic cross-infection)"
+        ],
+        "hi": [
+          "कोई इलाज नहीं — संक्रमित पौधे हटाएं"
+        ],
+        "mr": [
+          "इलाज नाही — संक्रमित रोपे काढा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No effective chemical treatment",
+          "Focus on prevention and sanitation"
+        ],
+        "hi": [
+          "कोई प्रभावी रासायनिक उपचार नहीं"
+        ],
+        "mr": [
+          "कोणताही प्रभावी रासायनिक उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Use virus-resistant varieties (Tm-2 gene)",
+        "Sanitize tools with 10% bleach",
+        "Wash hands between plants",
+        "Use certified virus-free seeds"
+      ],
+      "hi": [
+        "वायरस-प्रतिरोधी किस्में उपयोग करें"
+      ],
+      "mr": [
+        "विषाणू-प्रतिरोधक जाती वापरा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Remove plants — prevent spread via sanitation.",
+        "hi": "पौधे हटाएं — स्वच्छता से प्रसार रोकें।",
+        "mr": "रोपे काढा — स्वच्छतेने प्रसार रोखा."
+      },
+      "moderate": {
+        "en": "Isolate affected plants.",
+        "hi": "प्रभावित पौधों को अलग करें।",
+        "mr": "प्रभावित रोपे वेगळे करा."
+      },
+      "low": {
+        "en": "Monitor and sanitize tools.",
+        "hi": "निगरानी करें और उपकरण साफ करें।",
+        "mr": "निरीक्षण करा आणि साधने स्वच्छ करा."
+      }
+    }
+  },
+  "tomato_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Tomato",
+    "description": {
+      "en": "The tomato plant appears healthy with no visible signs of disease. Continue regular care and monitoring.",
+      "hi": "टमाटर का पौधा स्वस्थ है।",
+      "mr": "टोमॅटो रोप निरोगी आहे."
+    },
+    "symptoms": {
+      "en": [
+        "No disease symptoms detected"
+      ],
+      "hi": [
+        "कोई रोग लक्षण नहीं"
+      ],
+      "mr": [
+        "कोणतेही रोग लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A — plant is healthy"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार नहीं"
+        ],
+        "mr": [
+          "उपचार नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Maintain regular watering",
+        "Apply balanced fertilizer monthly",
+        "Monitor weekly for early signs",
+        "Keep area weed-free"
+      ],
+      "hi": [
+        "नियमित पानी दें",
+        "मासिक संतुलित उर्वरक"
+      ],
+      "mr": [
+        "नियमित पाणी द्या",
+        "दरमहाने संतुलित खत"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  },
+  "mango_anthracnose": {
+    "name": {
+      "en": "Anthracnose",
+      "hi": "एन्थ्रेक्नोज",
+      "mr": "अँथ्रॅकनोज"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Anthracnose is a common fungal disease caused by Colletotrichum gloeosporioides, causing dark spots on leaves, flowers, and fruit.",
+      "hi": "एन्थ्रेक्नोज एक सामान्य कवक रोग है जो पत्तियों, फूलों और फलों पर काले धब्बे बनाता है।",
+      "mr": "अँथ्रॅकनोज हा बुरशीजन्य रोग असून पानांवर, फुलांवर आणि फळांवर काळे डाग पाडतो."
+    },
+    "symptoms": {
+      "en": [
+        "Dark brown to black circular lesions on leaves",
+        "Browning and drop of flowers",
+        "Sunken dark spots on ripe fruits"
+      ],
+      "hi": [
+        "पत्तियों पर गहरे भूरे से काले गोल धब्बे",
+        "फूलों का पीला पड़ना और गिरना",
+        "फलों पर धब्बे"
+      ],
+      "mr": [
+        "पानांवर गडद तपकिरी ते काळे गोलाकार डाग",
+        "फुलांची गळती",
+        "फळांवर काळे खड्डे पडणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Colletotrichum gloeosporioides fungus",
+        "High relative humidity (>80%) and warm weather",
+        "Damp foliage and poor tree pruning"
+      ],
+      "hi": [
+        "Colletotrichum gloeosporioides कवक",
+        "अधिक आर्द्रता और गर्म मौसम",
+        "गीली पत्तियां"
+      ],
+      "mr": [
+        "Colletotrichum gloeosporioides बुरशी",
+        "जास्त दमट हवामान",
+        "झाडाची गर्दी आणि हवा खेळती नसणे"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Prune affected branches to improve airflow",
+          "Spray neem oil (5ml/L)",
+          "Apply Pseudomonas fluorescens bio-agent"
+        ],
+        "hi": [
+          "प्रभावित शाखाओं की छंटाई करें",
+          "नीम तेल (5ml/L) का छिड़काव करें"
+        ],
+        "mr": [
+          "बाधित फांद्या छाटून टाका",
+          "कडुलिंबाच्या तेलाची (५ मिली/लिटर) फवारणी करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Carbendazim 50% WP @ 1g/L",
+          "Mancozeb 75% WP @ 2g/L",
+          "Copper oxychloride @ 3g/L"
+        ],
+        "hi": [
+          "कार्बेन्डाजिम 50% WP @ 1g/L",
+          "मैंकोज़ेब 75% WP @ 2g/L"
+        ],
+        "mr": [
+          "कार्बेन्डाझिम ५०% WP @ १ ग्रॅम/लिटर",
+          "मँकोझेब ७५% WP @ २ ग्रॅम/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Ensure good sanitation by removing fallen leaves",
+        "Prune tree canopies for sunlight penetration",
+        "Spray preventive fungicides before flowering"
+      ],
+      "hi": [
+        "बगीचे की स्वच्छता बनाए रखें",
+        "फूल आने से पहले निवारक छिड़काव करें"
+      ],
+      "mr": [
+        "झाडाखालील पालापाचोळा नष्ट करा",
+        "झाडांची छाटणी करून सूर्यप्रकाश मिळेल असे करा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Immediate fungicidal spray required to save crop yield.",
+        "hi": "फसल बचाने के लिए तुरंत कवकनाशी छिड़काव आवश्यक।",
+        "mr": "उत्पादन वाचवण्यासाठी त्वरित फवारणी आवश्यक."
+      },
+      "moderate": {
+        "en": "Apply treatment to prevent spread.",
+        "hi": "प्रसार रोकने के लिए उपचार लागू करें।",
+        "mr": "रोग पसरू नये म्हणून उपचार सुरू करा."
+      },
+      "low": {
+        "en": "Monitor symptoms and prune affected parts.",
+        "hi": "लक्षणों की निगरानी करें।",
+        "mr": "बारकाईने निरीक्षण करा आणि बाधित भाग काढा."
+      }
+    }
+  },
+  "mango_bacterial_canker": {
+    "name": {
+      "en": "Bacterial Canker",
+      "hi": "बैक्टीरियल कैंकर",
+      "mr": "बॅक्टेरियल कॅन्कर"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Bacterial canker (also known as bacterial black spot) is caused by Xanthomonas arboricola pv. mangiferaeindicae, affecting leaves, twigs, and fruits.",
+      "hi": "बैक्टीरियल कैंकर Xanthomonas जीवाणु के कारण होता है, जो पत्तियों और फलों को प्रभावित करता है।",
+      "mr": "बॅक्टेरियल कॅन्कर Xanthomonas जीवाणूमुळे होतो आणि पाने, डहाळ्या व फळांना बाधित करतो."
+    },
+    "symptoms": {
+      "en": [
+        "Water-soaked lesions on leaves turning black and raised",
+        "Cankers on twigs causing dieback",
+        "Star-shaped cracks on infected fruits"
+      ],
+      "hi": [
+        "पत्तियों पर पानी से भरे धब्बे जो काले हो जाते हैं",
+        "फलों पर तारे के आकार की दरारें"
+      ],
+      "mr": [
+        "पानांवर पाण्यासारखे डाग जे काळे व उंच होतात",
+        "फांद्यांवर लहान जखमा",
+        "फळांवर ताऱ्याच्या आकाराचे तडे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Xanthomonas bacterial infection",
+        "Wind-driven rain spreading bacteria",
+        "Wounds from insects or pruning"
+      ],
+      "hi": [
+        "Xanthomonas जीवाणु",
+        "हवा और बारिश से प्रसार",
+        "छंटाई के घाव"
+      ],
+      "mr": [
+        "Xanthomonas जीवाणू",
+        "वाऱ्यासह येणारा पाऊस",
+        "छाटणी दरम्यान झालेल्या जखमा"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Prune and burn infected twigs",
+          "Apply copper hydroxide spray",
+          "Disinfect pruning tools between trees"
+        ],
+        "hi": [
+          "संक्रमित टहनियों को काटें और जलाएं",
+          "कॉपर हाइड्रोक्साइड लगाएं"
+        ],
+        "mr": [
+          "बाधित फांद्या कापून नष्ट करा",
+          "कॉपर हायड्रॉक्साइडची फवारणी करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Streptocycline 100-200 ppm + Copper oxychloride @ 3g/L",
+          "Bordeaux mixture 1%"
+        ],
+        "hi": [
+          "स्ट्रेप्टोसाइक्लिन 200ppm + कॉपर ऑक्सीक्लोराइड @ 3g/L"
+        ],
+        "mr": [
+          "स्ट्रेप्टोसायक्लिन १००-२०० ppm + कॉपर ऑक्सिक्लोराईड @ ३ ग्रॅम/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Plant windbreaks around the orchard",
+        "Avoid overhead irrigation",
+        "Apply dormant copper sprays in autumn"
+      ],
+      "hi": [
+        "बगीचे के चारों ओर पवन-अवरोधक लगाएं"
+      ],
+      "mr": [
+        "बागेभोवती संरक्षक कुंपण लावा",
+        "पाण्याचा योग्य निचरा ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Severe canker can kill branches. Spray antibiotics urgently.",
+        "hi": "एंटीबायोटिक छिड़काव तुरंत करें।",
+        "mr": "लगेच प्रतिजैविक आणि कॉपर फवारा."
+      },
+      "moderate": {
+        "en": "Apply copper sprays and remove infected twigs.",
+        "hi": "संक्रमित हिस्से हटाएं।",
+        "mr": "बाधित फांद्या काढून फवारणी करा."
+      },
+      "low": {
+        "en": "Monitor closely for twig lesions.",
+        "hi": "बारीकी से निगरानी करें।",
+        "mr": "निरीक्षण करा."
+      }
+    }
+  },
+  "mango_cutting_weevil": {
+    "name": {
+      "en": "Cutting Weevil",
+      "hi": "लीफ़ कटिंग वीविल",
+      "mr": "लीफ कटिंग विवील"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "The mango leaf-cutting weevil (Deporaus marginatus) cuts new leaves, causing defoliation in young trees.",
+      "hi": "लीफ़ कटिंग वीविल नए पत्तों को काटता है जिससे नए पेड़ खराब हो जाते हैं।",
+      "mr": "लीफ कटिंग विवील कोवळ्या पानांना देठापासून कापून टाकतो, ज्यामुळे नवीन झाडांचे नुकसान होते."
+    },
+    "symptoms": {
+      "en": [
+        "Freshly cut green leaves found under the tree canopy",
+        "Weevils visible on new flushes",
+        "Loss of new leaf growth"
+      ],
+      "hi": [
+        "पेड़ के नीचे कटे हुए हरे पत्ते मिलना",
+        "कोमल पत्तियों का कटना"
+      ],
+      "mr": [
+        "झाडाखाली कापलेली हिरवी पाने पडणे",
+        "नवीन पालवीवर बारीक किडे दिसणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Deporaus marginatus pest infestation",
+        "Warm weather promoting new leaf growth flushes",
+        "Lack of natural predators"
+      ],
+      "hi": [
+        "Deporaus marginatus कीट",
+        "नई पत्तियों का आना"
+      ],
+      "mr": [
+        "Deporaus marginatus किड्याचा प्रादुर्भाव",
+        "नवीन पालवी येणारा काळ"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Collect and destroy cut leaves containing eggs",
+          "Apply neem seed kernel extract (5%)",
+          "Light traps to attract adults"
+        ],
+        "hi": [
+          "अंडे वाले गिरे पत्तों को नष्ट करें",
+          "नीम बीज अर्क (5%) छिड़कें"
+        ],
+        "mr": [
+          "झाडाखाली पडलेली पाने गोळा करून जाळा",
+          "कडुलिंबाच्या पेंडीचे पाणी फवारा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Monocrotophos 36% SL @ 1.5ml/L",
+          "Quinalphos 25% EC @ 2ml/L"
+        ],
+        "hi": [
+          "मोनोक्रोटोफॉस @ 1.5ml/L"
+        ],
+        "mr": [
+          "क्विनॉलफॉस २५% EC @ २ मिली/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Monitor new leaf flushes closely",
+        "Maintain orchard cleanliness",
+        "Encourage natural predatory ants"
+      ],
+      "hi": [
+        "नई पत्तियों के आते ही निगरानी रखें"
+      ],
+      "mr": [
+        "नवीन पालवीच्या वेळी विशेष लक्ष ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Aggressive defoliation of young trees — spray immediately.",
+        "hi": "तुरंत छिड़काव करें।",
+        "mr": "लगेच रासायनिक फवारणी करा."
+      },
+      "moderate": {
+        "en": "Hand-pick pests and apply neem-based sprays.",
+        "hi": "नीम स्प्रे लगाएं।",
+        "mr": "कडुलिंब फवारा आणि किडे गोळा करा."
+      },
+      "low": {
+        "en": "Collect and burn fallen cut leaves.",
+        "hi": "गिरे पत्ते नष्ट करें।",
+        "mr": "गळलेली पाने गोळा करून नष्ट करा."
+      }
+    }
+  },
+  "mango_die_back": {
+    "name": {
+      "en": "Die Back",
+      "hi": "डाई बैक",
+      "mr": "डाय बॅक"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Dieback is a fungal disease caused by Lasiodiplodia theobromae, leading to drying of twigs from top to bottom.",
+      "hi": "डाई बैक टहनियों के सूखने का रोग है जो ऊपर से नीचे की तरफ बढ़ता है।",
+      "mr": "डाय बॅक हा बुरशीजन्य रोग असून फांद्या शेंड्याकडून खाली वाळत जातात."
+    },
+    "symptoms": {
+      "en": [
+        "Twigs and branches drying and turning dark brown from the tip",
+        "Leaves shriveling and turning brown",
+        "Exudation of gum from affected wood"
+      ],
+      "hi": [
+        "टहनियों का शिखा से नीचे सूखना",
+        "पत्तियों का मुरझाना",
+        "गोंद निकलना"
+      ],
+      "mr": [
+        "फांद्या शेंड्याकडून खाली सुकत काळ्या पडणे",
+        "पाने सुकणे व गळणे",
+        "बाधित फांद्यांमधून डिंक निघणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Lasiodiplodia theobromae fungus",
+        "High temperature and water stress",
+        "Infection through pruning wounds"
+      ],
+      "hi": [
+        "Lasiodiplodia theobromae कवक",
+        "पानी की कमी और गर्मी",
+        "घावों के जरिए संक्रमण"
+      ],
+      "mr": [
+        "Lasiodiplodia theobromae बुरशी",
+        "उष्णता आणि पाण्याचा ताण",
+        "छाटणीच्या जखमांमधून संसर्ग"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Prune dried branches 3 inches below the dead wood",
+          "Apply copper paste to cut surfaces",
+          "Apply organic mulch to reduce stress"
+        ],
+        "hi": [
+          "सूखी शाखाओं को काटें और तांबे का पेस्ट लगाएं"
+        ],
+        "mr": [
+          "वाळलेल्या फांद्या निरोगी भागापासून ३ इंच खाली कापून बोर्डो पेस्ट लावा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Copper oxychloride 50% WP @ 3g/L",
+          "Thiophanate-methyl 70% WP @ 1g/L"
+        ],
+        "hi": [
+          "कॉपर ऑक्सीक्लोराइड @ 3g/L"
+        ],
+        "mr": [
+          "कॉपर ऑक्सिक्लोराईड @ ३ ग्रॅम/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Ensure balanced irrigation and fertilization",
+        "Always sterilize pruning tools",
+        "Apply preventive copper sprays after pruning"
+      ],
+      "hi": [
+        "संतुलित सिंचाई और खाद सुनिश्चित करें"
+      ],
+      "mr": [
+        "योग्य पाणी व्यवस्थापन ठेवा",
+        "छाटणीनंतर लगेच बोर्डो पेस्ट लावा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Severe dieback can kill the tree. Prune aggressively and spray.",
+        "hi": "शाखाएं काटें और तुरंत दवा छिड़कें।",
+        "mr": "त्वरित छाटणी करून बुरशीनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Prune affected branches and spray copper fungicide.",
+        "hi": "प्रभावित हिस्से काटें।",
+        "mr": "बाधित फांद्या काढून फवारणी करा."
+      },
+      "low": {
+        "en": "Monitor and ensure healthy tree nutrition.",
+        "hi": "वृक्ष पोषण पर ध्यान दें।",
+        "mr": "झाडांची काळजी घ्या व खते द्या."
+      }
+    }
+  },
+  "mango_gall_midge": {
+    "name": {
+      "en": "Gall Midge",
+      "hi": "गॉल मिज",
+      "mr": "गॉल मिज"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Mango gall midge (Erosomyia mangiferae) larvae cause galls (raised warts) on leaves, shoots, and young fruits.",
+      "hi": "गॉल मिज पत्तियों और नई कोंपलों पर छोटे उभरे हुए मस्से बनाता है।",
+      "mr": "गॉल मिज पानांवर आणि नवीन फुटव्यांवर गाठी किंवा बारीक फोड तयार करतो."
+    },
+    "symptoms": {
+      "en": [
+        "Raised circular spots or galls on leaf surface",
+        "Deformation of leaves and shoots",
+        "Premature drop of tiny fruits"
+      ],
+      "hi": [
+        "पत्तियों पर उभरे हुए धब्बे या गांठें",
+        "पत्तियों का मुड़ना"
+      ],
+      "mr": [
+        "पानांच्या पृष्ठभागावर लहान गाठी उठणे",
+        "पाने व शेंडे वेडेवाकडे होणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Erosomyia mangiferae insect larvae feeding inside tissues",
+        "High humidity during shoot formation flushes",
+        "Dense orchards"
+      ],
+      "hi": [
+        "Erosomyia mangiferae कीट",
+        "उमस भरा मौसम"
+      ],
+      "mr": [
+        "Erosomyia mangiferae किड्याच्या अळ्या",
+        "दमट हवामान",
+        "झाडांची दाटी"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Prune and destroy infested shoots",
+          "Deep plowing of soil to expose pupae",
+          "Neem kernel extract spray"
+        ],
+        "hi": [
+          "प्रभावित टहनियों को नष्ट करें",
+          "गहरी जुताई करें"
+        ],
+        "mr": [
+          "बाधित शेंडे कापून टाका",
+          "झाडाखालील मातीची खोल नांगरणी करा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Dimethoate 30% EC @ 2ml/L",
+          "Imidacloprid 17.8% SL @ 0.5ml/L"
+        ],
+        "hi": [
+          "डाइमेथोएट @ 2ml/L",
+          "इमिडाक्लोप्रिड @ 0.5ml/L"
+        ],
+        "mr": [
+          "डायमेथोएट ३०% EC @ २ मिली/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Avoid dense planting",
+        "Maintain canopy hygiene",
+        "Apply soil insecticide around tree basin"
+      ],
+      "hi": [
+        "घने रोपण से बचें",
+        "स्वच्छता रखें"
+      ],
+      "mr": [
+        "झाडांमधील अंतर योग्य ठेवा",
+        "बागेत हवा खेळती ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Severe leaf damage — apply systemic insecticides.",
+        "hi": "तुरंत कीटनाशक छिड़काव करें।",
+        "mr": "लगेच शोषक कीटकनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Prune affected shoots and apply neem spray.",
+        "hi": "प्रभावित हिस्से हटाएं।",
+        "mr": "बाधित शेंडे काढा आणि कडुलिंब फवारा."
+      },
+      "low": {
+        "en": "Monitor leaf flush and plow basin soil.",
+        "hi": "माती की जुताई करें।",
+        "mr": "निरीक्षण करा आणि माती हलवून घ्या."
+      }
+    }
+  },
+  "mango_powdery_mildew": {
+    "name": {
+      "en": "Powdery Mildew",
+      "hi": "पाउडरी मिल्ड्यू",
+      "mr": "पावडरी मिल्ड्यू"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Powdery mildew, caused by Oidium mangiferae, covers leaves, flowers, and small fruits with a white powdery coating.",
+      "hi": "पाउडरी मिल्ड्यू कवक रोग है जो पत्तियों और फूलों पर सफेद पाउडर जैसी परत बनाता है।",
+      "mr": "पावडरी मिल्ड्यू हा बुरशीजन्य रोग असून पाने आणि मोहरावर पांढरी भुकटी तयार करतो."
+    },
+    "symptoms": {
+      "en": [
+        "White powdery coating on flowers and leaves",
+        "Shedding of flowers before fruit set",
+        "Small fruits drop early"
+      ],
+      "hi": [
+        "फूलों और पत्तों पर सफेद चूर्ण",
+        "फूलों का झड़ना"
+      ],
+      "mr": [
+        "मोहरावर आणि कोवळ्या पानांवर पांढरी पावडर दिसणे",
+        "मोहर गळणे",
+        "लहान कैऱ्या गळणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Oidium mangiferae fungus",
+        "Cool nights and warm days during flowering",
+        "High humidity"
+      ],
+      "hi": [
+        "Oidium mangiferae कवक",
+        "ठंडी रातें और गर्म दिन"
+      ],
+      "mr": [
+        "Oidium mangiferae बुरशी",
+        "थंड रात्री आणि उष्ण दिवस",
+        "दमट हवामान"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Apply sulfur-based powder dust",
+          "Spray potassium bicarbonate solution",
+          "Neem oil spray"
+        ],
+        "hi": [
+          "गंधक आधारित चूर्ण लगाएं",
+          "नीम तेल छिड़कें"
+        ],
+        "mr": [
+          "गंधक (सल्फर) आधारित बुरशीनाशक फवारा",
+          "कडुलिंबाच्या तेलाची फवारणी"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Wettable Sulfur 80% WP @ 3g/L",
+          "Hexaconazole 5% EC @ 1-2ml/L",
+          "Dinocap 48% EC @ 1ml/L"
+        ],
+        "hi": [
+          "घुलनशील सल्फर @ 3g/L",
+          "हेक्साकोनाज़ोल @ 1ml/L"
+        ],
+        "mr": [
+          "विद्राव्य गंधक @ ३ ग्रॅम/लिटर",
+          "हेक्झाकोनाझोल @ १ मिली/लिटर"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Apply preventive sulfur spray at flower bud burst",
+        "Avoid shade around the tree canopies",
+        "Monitor weather forecast"
+      ],
+      "hi": [
+        "कलियां फूटने पर सल्फर का छिड़काव करें"
+      ],
+      "mr": [
+        "मोहर येताना प्रतिबंधात्मक गंधक फवारा",
+        "झाडांना योग्य सूर्यप्रकाश मिळेल याची काळजी घ्या"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Severe mildew can destroy entire flower crop — spray fungicides urgently.",
+        "hi": "तुरंत कवकनाशी छिड़काव करें।",
+        "mr": "मोहर वाचवण्यासाठी त्वरित रासायनिक बुरशीनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Apply sulfur sprays immediately.",
+        "hi": "सल्फर छिड़काव करें।",
+        "mr": "लगेच गंधक फवारा."
+      },
+      "low": {
+        "en": "Monitor and apply organic prevention.",
+        "hi": "निवारक उपाय करें।",
+        "mr": "बारीक लक्ष ठेवा."
+      }
+    }
+  },
+  "mango_sooty_mould": {
+    "name": {
+      "en": "Sooty Mould",
+      "hi": "सूटी मोल्ड",
+      "mr": "सुटी मोल्ड"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "Sooty mould is a fungal growth forming a black powdery layer on leaves, feeding on insect honeydew secretions.",
+      "hi": "सूटी मोल्ड पत्तियों पर काली कोयले जैसी परत बनाता है जो कीटों के रस चूसने से बनती है।",
+      "mr": "सुटी मोल्ड पानांवर कोळशासारखा काळा थर तयार करतो, हा किड्यांच्या चिकट विष्ठेवर वाढतो."
+    },
+    "symptoms": {
+      "en": [
+        "Black velvety or powdery film covering leaves and stems",
+        "Presence of aphids, mealybugs, or scale insects",
+        "Reduced plant vigor due to blocked sunlight"
+      ],
+      "hi": [
+        "पत्तियों पर काली मखमली परत",
+        "कीटों (माहू, मिलीबग) की मौजूदगी",
+        "कमजोर विकास"
+      ],
+      "mr": [
+        "पानांवर आणि देठांवर काळा कोळशासारखा थर",
+        "पानांवर रस शोषणाऱ्या किडी असणे"
+      ]
+    },
+    "causes": {
+      "en": [
+        "Capnodium species fungal growth",
+        "Insects producing honeydew (aphids, hoppers, scale insects)",
+        "Lack of orchard air circulation"
+      ],
+      "hi": [
+        "Capnodium कवक",
+        "रस चूसने वाले कीट"
+      ],
+      "mr": [
+        "Capnodium बुरशी",
+        "चिकट द्रव सोडणाऱ्या किडींचा प्रादुर्भाव"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "Spray starch solution (2%) to flake off the mould",
+          "Apply neem oil to kill insects",
+          "Wash foliage with mild soap solution"
+        ],
+        "hi": [
+          "स्टार्च घोल (2%) का छिड़काव करें",
+          "नीम तेल लगाएं"
+        ],
+        "mr": [
+          "पिठाची खळ (२%) फवारल्यास थर सुटतो",
+          "किडींच्या नियंत्रणासाठी कडुलिंब तेल फवारा"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "Imidacloprid 17.8% SL @ 0.5ml/L to control insects",
+          "Copper oxychloride 50% WP @ 3g/L"
+        ],
+        "hi": [
+          "इमिडाक्लोप्रिड @ 0.5ml/L (कीट नियंत्रण के लिए)"
+        ],
+        "mr": [
+          "इमिडाक्लोप्रिड @ ०.५ मिली/लिटर (किडींसाठी) + कॉपर ऑक्सिक्लोराईड @ ३ ग्रॅम"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Control sap-feeding insects proactively",
+        "Prune tree canopies to allow ventilation and light",
+        "Regular monitoring"
+      ],
+      "hi": [
+        "कीटों को पहले ही नियंत्रित करें"
+      ],
+      "mr": [
+        "किडींचे वेळेवर नियंत्रण करा",
+        "बागेत मोकळी हवा ठेवा"
+      ]
+    },
+    "severity_info": {
+      "high": {
+        "en": "Photosynthesis is heavily blocked — wash tree and spray insecticide.",
+        "hi": "पत्ते धोएं और कीटनाशक छिड़कें।",
+        "mr": "झाड धुवून कीटकनाशक फवारा."
+      },
+      "moderate": {
+        "en": "Wash with starch or soap and control insects.",
+        "hi": "कीट नियंत्रित करें।",
+        "mr": "खळ फवारून किडींचे नियंत्रण करा."
+      },
+      "low": {
+        "en": "Monitor and control early insect activity.",
+        "hi": "कीटों की निगरानी करें।",
+        "mr": "किडींचे प्रमाण तपासा."
+      }
+    }
+  },
+  "mango_healthy": {
+    "name": {
+      "en": "Healthy",
+      "hi": "स्वस्थ",
+      "mr": "निरोगी"
+    },
+    "crop": "Mango",
+    "description": {
+      "en": "The mango leaf appears healthy and free from diseases or significant pest damage.",
+      "hi": "आम का पत्ता स्वस्थ है। कोई रोग नहीं मिला।",
+      "mr": "आंब्याचे पान निरोगी असून रोगाची कोणतीही चिन्हे नाहीत."
+    },
+    "symptoms": {
+      "en": [
+        "No symptoms of disease or pest feeding detected"
+      ],
+      "hi": [
+        "कोई रोग या कीट लक्षण नहीं"
+      ],
+      "mr": [
+        "रोगाचे किंवा किडीचे कोणतेही लक्षण नाही"
+      ]
+    },
+    "causes": {
+      "en": [
+        "N/A"
+      ],
+      "hi": [
+        "N/A"
+      ],
+      "mr": [
+        "N/A"
+      ]
+    },
+    "treatment": {
+      "organic": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार आवश्यक नहीं"
+        ],
+        "mr": [
+          "कोणत्याही उपचारांची गरज नाही"
+        ]
+      },
+      "chemical": {
+        "en": [
+          "No treatment needed"
+        ],
+        "hi": [
+          "कोई उपचार आवश्यक नहीं"
+        ],
+        "mr": [
+          "कोणत्याही उपचारांची गरज नाही"
+        ]
+      }
+    },
+    "prevention": {
+      "en": [
+        "Maintain balanced watering and nutrition",
+        "Ensure proper sanitation around orchard",
+        "Monitor regularly"
+      ],
+      "hi": [
+        "नियमित पानी और पोषण दें"
+      ],
+      "mr": [
+        "नियमित पाणी व योग्य खते द्या"
+      ]
+    },
+    "severity_info": {
+      "high": null,
+      "moderate": null,
+      "low": null
+    }
+  }
+}
