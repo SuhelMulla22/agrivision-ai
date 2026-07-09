@@ -47,6 +47,7 @@ Under the **Environment** tab, click **Add Environment Variable** and configure 
 *   `GEMINI_API_KEY` = `[YOUR_GEMINI_API_KEY]`
 *   `OPENROUTER_API_KEY` = `[YOUR_OPENROUTER_API_KEY]`
 *   `CORS_ORIGINS` = `https://your-app-name.vercel.app` (You will get this URL in the next phase)
+*   `SKIP_TF_LOAD` = `true` (Crucial for Render Free Tier to bypass local TensorFlow loading and prevent Out-of-Memory crashes)
 
 Click **Create Web Service**. Render will now build and launch the API!
 
