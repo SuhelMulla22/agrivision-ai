@@ -37,6 +37,11 @@ class ModelService:
 
     def load_model(self) -> None:
         """Load the TensorFlow model and class mapping from disk."""
+        if os.getenv("SKIP_TF_LOAD") == "true":
+            logger.info("SKIP_TF_LOAD is true. Skipping local TensorFlow model loading to save RAM.")
+            self._load_demo_mode()
+            return
+
         try:
             import tensorflow as tf
 
