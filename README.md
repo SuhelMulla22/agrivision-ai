@@ -2,20 +2,20 @@
 
 # 🌾 AgriVision AI
 
-### AI-Powered Crop Disease Detection for Indian Farmers
+### 3-Tier Hybrid Universal AI Crop Disease Detection for Indian Farmers
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Upload a crop leaf photo → Get instant disease diagnosis with treatment recommendations in **English, Hindi, and Marathi**.
+Upload a crop leaf photo → Get instant universal disease diagnosis with organic and chemical treatment recommendations in **English, Hindi, and Marathi**.
 
-[Features](#-features) · [Tech Stack](#-tech-stack) · [Quick Start](#-quick-start) · [API Docs](#-api-documentation) · [Architecture](#-architecture)
+[Features](#-features) · [Architecture](#-architecture) · [Tech Stack](#-tech-stack) · [Quick Start](#-quick-start) · [API Docs](#-api-documentation) · [Deployment](#-deployment)
 
 </div>
 
@@ -23,17 +23,15 @@ Upload a crop leaf photo → Get instant disease diagnosis with treatment recomm
 
 ## 🎯 Problem
 
-Indian agriculture loses **₹90,000+ crores annually** to crop diseases. Farmers in rural areas lack access to timely diagnosis and expert advice. AgriVision AI solves this by putting the power of AI in every farmer's pocket.
+Indian agriculture loses **₹90,000+ crores annually** to crop diseases. Farmers in rural areas lack access to timely diagnosis and expert advice. AgriVision AI solves this by putting the power of state-of-the-art cloud and offline edge Artificial Intelligence in every farmer's pocket.
 
-## 💡 Solution
+## 💡 Solution: The 3-Tier AI Cascade
 
-AgriVision AI uses a **fine-tuned MobileNetV2** deep learning model to detect **38 crop diseases across 14 crops** from a single leaf photograph. It provides:
+AgriVision AI uses a unique, resilient **three-tiered cascade architecture** to diagnose crop leaves:
 
-- ⚡ Instant diagnosis (< 2 seconds)
-- 📊 Confidence scores and severity assessment
-- 💊 Treatment recommendations (organic + chemical)
-- 🛡️ Prevention tips
-- 🗣️ Multilingual support (English, Hindi, Marathi)
+1. **Tier 1 (Gemini 2.5 Flash Vision API)**: Analyzes the image using Google's cloud vision model for universal crop support and zero-shot disease identification.
+2. **Tier 2 (OpenRouter Vision API Fallback)**: If Gemini API limits are hit, cascades immediately to secondary large vision models to ensure continuous uptime.
+3. **Tier 3 (Local TF MobileNetV2 Classifier)**: If internet connectivity is lost or upstream APIs fail, runs inference locally using a fine-tuned MobileNetV2 model detecting 38 classes across 14 crops.
 
 ---
 
@@ -41,38 +39,40 @@ AgriVision AI uses a **fine-tuned MobileNetV2** deep learning model to detect **
 
 | Feature | Description |
 |---------|-------------|
-| 🔍 **Disease Detection** | Upload a leaf photo, get instant AI diagnosis |
-| 📊 **Confidence Scoring** | Top-3 predictions with confidence percentages |
+| 🔍 **Disease Detection** | Upload a leaf photo, get instant universal AI diagnosis in <2s |
+| 📊 **Confidence Scoring** | Visual metrics showing diagnosis reliability |
 | ⚠️ **Severity Assessment** | High / Moderate / Low severity classification |
 | 💊 **Treatment Advice** | Organic and chemical treatment recommendations |
 | 🛡️ **Prevention Tips** | Actionable steps to prevent disease spread |
-| 🗣️ **Multilingual** | Full UI and content in English, Hindi, Marathi |
-| 📱 **Responsive** | Works on mobile, tablet, and desktop |
-| 🔐 **User Accounts** | Sign up, track prediction history, analytics |
-| 📈 **Analytics Dashboard** | Personal disease tracking and insights |
-| 🐳 **Docker Ready** | One-command deployment with Docker |
-| ☁️ **Cloud Deployable** | Ready for Google Cloud Run |
+| 🗣️ **Multilingual Support** | Full UI and translation in English, Hindi, and Marathi |
+| 👤 **User Profile Page** | Unified profile details (Name, Email, Location) with personal analytics |
+| 📈 **Analytics Dashboard** | Premium charts displaying scan trends, crop distribution, and severity donut |
+| 📜 **Clickable History** | View previous diagnostic records inside animated modal popovers |
+| 🚫 **Wildcard Routing** | Themed 404 page ("Page Not Found") for invalid URL fallbacks |
+| 🐳 **Docker Ready** | One-command local containerization with Docker Compose |
 
 ---
 
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────────┐
-│           React Frontend (Vite + Tailwind)      │
-│    Upload UI · Results · Dashboard · Auth        │
-└─────────────────────┬───────────────────────────┘
-                      │ REST API (HTTPS)
-┌─────────────────────┴───────────────────────────┐
-│              FastAPI Backend                      │
-│  Routers · Schemas · Middleware · Auth (JWT)      │
-├─────────────────────────────────────────────────┤
-│           TensorFlow Inference Engine            │
-│  MobileNetV2 · Pre-processing · Post-processing  │
-├─────────────────────────────────────────────────┤
-│               Data Layer                         │
-│  Firebase Auth · Firestore · Disease KB          │
-└─────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│           React Frontend (Vite + Tailwind)             │
+│   Upload UI · Visual Dashboard · History · Profile     │
+└───────────────────────────┬────────────────────────────┘
+                            │ REST API (HTTPS + JWT)
+┌───────────────────────────┴────────────────────────────┐
+│                    FastAPI Backend                     │
+│      Routers · Schemas · Security Headers · Auth       │
+├───────────────────────────┬────────────────────────────┤
+│   Universal AI Engine     │  Local Classifier (TF)     │
+│   Gemini 2.5 / OpenRouter │  MobileNetV2 (Offline)     │
+└───────────────────────────┼────────────────────────────┘
+                            │ DB Clients (RLS Enabled)
+┌───────────────────────────┴────────────────────────────┐
+│             Supabase Cloud Infrastructure             │
+│     User Database · Blob Storage · Auth Management     │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -81,13 +81,14 @@ AgriVision AI uses a **fine-tuned MobileNetV2** deep learning model to detect **
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
-| **ML** | TensorFlow 2.x, Keras, MobileNetV2 | Transfer learning for disease classification |
-| **Backend** | FastAPI, Python 3.11, Pydantic | Async API with auto-generated docs |
-| **Frontend** | React 18, Vite, Tailwind CSS, Framer Motion | Modern, responsive, animated UI |
-| **Database** | Firebase Firestore | User data, prediction history |
-| **Auth** | JWT + bcrypt | Secure authentication |
-| **Container** | Docker, Docker Compose | Consistent dev/production environments |
-| **Cloud** | Google Cloud Run | Serverless, auto-scaling deployment |
+| **AI/ML** | Gemini 2.5 Flash, TensorFlow 2.x, MobileNetV2 | Hybrid vision APIs & offline edge classifier |
+| **Backend** | FastAPI, Python 3.11, Pydantic, Uvicorn | Async REST API with automatic security headers |
+| **Frontend** | React 18, Vite, Tailwind CSS, Framer Motion | Animated, responsive modern user experience |
+| **Charts** | Recharts | Premium custom gradient bar charts & donut distributions |
+| **Database** | Supabase (PostgreSQL) | User database records guarded by Row-Level Security (RLS) |
+| **Storage** | Supabase Storage | Secure blob bucket storage for uploaded leaf snapshots |
+| **Auth** | JWT + bcrypt | Secure session management & route authentication |
+| **Container** | Docker, Docker Compose | Consistent local and staging docker runs |
 
 ---
 
@@ -100,50 +101,47 @@ AgriVision AI uses a **fine-tuned MobileNetV2** deep learning model to detect **
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/agrivision-ai.git
+git clone https://github.com/SuhelMulla22/agrivision-ai.git
 cd agrivision-ai
 ```
 
 ### 2. Start the Backend
 ```bash
 cd backend
-cp .env.example .env
+# Create virtual environment and install packages
+python -m venv venv
+venv\Scripts\activate      # On Windows
+source venv/bin/activate   # On Linux/macOS
 pip install -r requirements.txt
+
+# Create .env from example and fill in Supabase and Gemini keys
+cp .env.example .env
 uvicorn app.main:app --reload --port 8000
 ```
-> API docs available at: http://localhost:8000/api/docs
+> API docs available at: http://127.0.0.1:8000/docs
 
 ### 3. Start the Frontend
 ```bash
 cd frontend
+# Install dependencies
 npm install
+
+# Start Vite server (runs on port 5176 to avoid local caching conflicts)
 npm run dev
 ```
-> App available at: http://localhost:5173
-
-### 4. Train the Model (Optional)
-```bash
-cd backend
-# Download PlantVillage dataset to ./datasets/plantvillage/
-python ml/train.py --data-dir ./datasets/plantvillage --epochs 25
-```
-
-### Docker (Recommended for Production)
-```bash
-docker compose up --build
-```
+> App available at: http://localhost:5176
 
 ---
 
 ## 📡 API Documentation
 
-Once the backend is running, interactive API docs are available at:
+Interactive API documents are available at:
 
 | Docs | URL |
 |------|-----|
-| **Swagger UI** | http://localhost:8000/api/docs |
-| **ReDoc** | http://localhost:8000/api/redoc |
-| **OpenAPI JSON** | http://localhost:8000/api/openapi.json |
+| **Swagger UI** | http://127.0.0.1:8000/docs |
+| **ReDoc** | http://127.0.0.1:8000/redoc |
+| **OpenAPI JSON** | http://127.0.0.1:8000/openapi.json |
 
 ### Key Endpoints
 
@@ -151,118 +149,37 @@ Once the backend is running, interactive API docs are available at:
 # Health check
 GET /api/health
 
-# Predict disease (upload image)
+# Predict disease (upload image - Requires auth token)
 POST /api/v1/predict
   - file: image (multipart/form-data)
   - language: en | hi | mr
-
-# List supported crops
-GET /api/v1/crops
-
-# Get disease info
-GET /api/v1/diseases/{disease_id}?language=en
 
 # Auth
 POST /api/v1/auth/register
 POST /api/v1/auth/login
 GET  /api/v1/auth/me
 
-# History & Analytics (authenticated)
+# History & Analytics (Requires auth token)
 GET /api/v1/history
 GET /api/v1/analytics
 ```
 
-### Sample Response
-```json
-{
-  "success": true,
-  "data": {
-    "disease": "Tomato Late Blight",
-    "crop": "Tomato",
-    "confidence": 0.967,
-    "severity": "high",
-    "is_healthy": false,
-    "top_predictions": [
-      {"disease": "Tomato Late Blight", "confidence": 0.967},
-      {"disease": "Tomato Early Blight", "confidence": 0.021},
-      {"disease": "Tomato Healthy", "confidence": 0.008}
-    ],
-    "disease_info": {
-      "description": "Late blight is a devastating disease...",
-      "symptoms": ["Dark water-soaked lesions", "White fuzzy growth"],
-      "treatment": {
-        "organic": ["Remove infected plants", "Apply copper fungicide"],
-        "chemical": ["Metalaxyl + Mancozeb @ 2.5g/L"]
-      },
-      "prevention": ["Use resistant varieties", "Avoid overhead irrigation"]
-    },
-    "processing_time_ms": 847
-  }
-}
-```
-
 ---
 
-## 📂 Project Structure
+## ☁️ Deployment (Free Lifetime Setup)
 
-```
-agrivision-ai/
-├── backend/
-│   ├── app/
-│   │   ├── main.py              # FastAPI entry point
-│   │   ├── config.py            # Settings management
-│   │   ├── routers/             # API endpoints
-│   │   ├── schemas/             # Pydantic models
-│   │   ├── services/            # Business logic
-│   │   ├── core/                # Security, exceptions
-│   │   └── middleware/          # Request processing
-│   ├── ml/
-│   │   ├── train.py             # Model training script
-│   │   └── models/              # Saved .h5 models
-│   ├── data/                    # Disease knowledge base
-│   ├── tests/                   # Backend tests
-│   ├── Dockerfile
-│   └── requirements.txt
-├── frontend/
-│   ├── src/
-│   │   ├── pages/               # Route pages
-│   │   ├── components/          # Reusable components
-│   │   ├── services/            # API client
-│   │   └── i18n/                # Translations
-│   ├── package.json
-│   └── tailwind.config.js
-├── docker-compose.yml
-├── Makefile
-└── README.md
-```
+Refer to the production configuration guidelines for hosting this stack at zero cost:
 
----
+### 1. Backend (Render)
+- Deploy your `backend` directory to **Render Web Services**.
+- Since Render free tier offers 512MB RAM, set the environment variable:
+  `SKIP_TF_LOAD` = `true`
+  *This disables loading local TensorFlow into memory, keeping the server footprint under 80MB. The backend will route all predictions through Gemini Cloud API.*
+- Configure your `GEMINI_API_KEY`, `SUPABASE_URL`, and `SUPABASE_ANON_KEY`.
 
-## 🧪 ML Model Details
-
-| Metric | Value |
-|--------|-------|
-| **Architecture** | MobileNetV2 (Transfer Learning) |
-| **Dataset** | PlantVillage (54,305 images) |
-| **Classes** | 38 (14 crops × multiple diseases + healthy) |
-| **Image Size** | 224 × 224 × 3 |
-| **Validation Accuracy** | ~96% |
-| **Inference Time** | < 200ms (CPU) |
-
-### Supported Crops
-Apple · Blueberry · Cherry · Corn · Grape · Orange · Peach · Pepper · Potato · Raspberry · Rice · Soybean · Squash · Strawberry · Tomato
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+### 2. Frontend (Vercel)
+- Deploy your `frontend` directory to **Vercel**.
+- Add the `VITE_API_URL` pointing to your Render backend URL, and add the Supabase URL/key.
 
 ---
 
@@ -274,10 +191,10 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👨‍💻 Author
 
-**Your Name** — B.Tech AI/ML, D Y Patil Agriculture and Technical University, Talsande
+**Suhel Mulla** — B.Tech AI/ML, D Y Patil Agriculture and Technical University, Talsande
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhel-mulla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhelMulla22)
 
 ---
 
